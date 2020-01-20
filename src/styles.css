@@ -109,3 +109,15 @@
         /* padding-left: 20px; */
         margin-left: 197px;
     }
+    .text{
+        color:rgb(54, 53, 53);
+        text-align: center;
+    }
+    .text2{
+        color: rgb(54, 53, 53);
+        text-align: center;
+
+    }
+    .par{
+        margin: auto !important;
+    }

@@ -35,7 +35,7 @@
   .navbar-default.navbar-trans .nav-link,
   .navbar-default.navbar-reduce .nav-link {
     font-size: 1.1rem;
-    color: #000000;
+    color: #fff;
     font-weight: 600;
     letter-spacing: 0.030em;
     transition: all 0.1s ease-in-out;
@@ -65,7 +65,7 @@
   
   .navbar-default.navbar-trans .nav-link:hover,
   .navbar-default.navbar-reduce .nav-link:hover {
-    color: #000000;
+    color: rgb(224, 34, 34);
   }
   
   .navbar-default.navbar-trans .nav-link:hover:before,
