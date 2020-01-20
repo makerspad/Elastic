@@ -1,0 +1,111 @@
+.vat{
+    text-align:center;
+    color: dodgerblue;
+    }
+    
+    .btn btn-primary{
+        width: 100%
+    }
+    
+    a {
+        color: #343a40;
+        text-decoration: none;
+        background-color: transparent;
+    }
+     .float-center{
+         text-align: center;
+     }
+     .footer {
+        position: inherit;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color:black;
+        text-align: center;
+     }
+     .com{
+       
+        margin-top: -88px !important;
+        margin: 7px;
+        text-align: center;
+    
+     }
+     .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-weight: 800;
+        font-size: 38px;
+        color: #ffffff!important;
+        letter-spacing: 3px;
+       
+    }
+      
+    button:not(:disabled) {
+        cursor: pointer;
+        width: auto;
+    }
+    .text{
+        text-align: -webkit-left;
+        font-weight: inherit;
+        font-family: "Open Sans",Arial,sans-serif;
+        margin-left: 10px;
+        font-weight: initial;
+        text-align: center;
+        font-size: 100%;
+    vertical-align: baseline;
+    }
+    .input1{
+        text-align: center;
+        margin-left: -18px;
+    
+    }
+    p {
+        margin: 0 0 10px;
+        font-weight: inherit;
+        font-size: 14px;
+    }
+    .shop{
+        text-align:center;
+        font-size: xx-large;
+    }  
+    #topBtn{
+        position: fixed;
+        bottom: 40px;
+        right: 40px;
+        font-size: 22px;
+        width: 50px;
+        height: 50px;
+        background: #e74c3c;
+        color: white;
+        border: none;
+        cursor: pointer;
+        display: none;
+      }
+      
+    
+      ul li{
+        font-size:14px;
+       } 
+       body {
+        color: rgb(248, 246, 246);
+        background-color: #fff;
+        font-family: "Open Sans",Arial,sans-serif !important;
+        font-size: 14px;
+        font-weight: 500;
+        -webkit-font-smoothing: antialiased;
+        line-height: 1.7em;
+    }
+    .navbar-toggler-icon {
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        vertical-align: middle;
+        content: "";
+        background: no-repeat center center;
+        background-size: 100% 100%;
+        /* padding-left: 20px; */
+        margin-left: 197px;
+    }

@@ -1,0 +1,109 @@
+.icon-box-wrapper .loginType{
+    display: inline ;
+    cursor: pointer;
+    margin-left: 10px;
+  
+}
+.navbar-nav >li> a{
+  display: inline-block;
+  padding-right: 22px;
+  font-size: 14px;
+  font-family: 'Open Sans',Helvetica,Arial,Lucida,sans-serif;
+  font-weight: 600;
+  
+}
+.navbar {
+  overflow: hidden;
+  position: sticky;
+  margin: 8px 22px 8px 22px;
+  top: 0px;
+  width: 100%;
+vertical-align: middle;
+  z-index:1 !important;
+  margin: 0;
+  padding: 0;
+  height: 77px;
+  background-color: white;
+}
+html, body {
+  overflow: auto;
+  position: relative;
+  margin: 0;
+  height: 100%;
+}
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: auto;
+}
+
+
+.arrow {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  font-size: 26px;
+  text-align: center;
+  border-radius: 5px;
+  outline: none;
+  background:rgba(0,0,0,.4);
+  cursor:pointer;
+  color:#fff
+}
+
+.glyphicon {
+  color: white;
+}
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) { 
+button {
+  cursor: pointer;
+  width: 307px;
+  font-size: 18px;
+  padding-left: 262px;
+ 
+  
+  
+
+}
+}
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) { 
+button ::before{
+  content: "Select Page";
+  font-size: 2px;
+  padding-right:2%;
+  display: inline-block;
+}
+}
+
+
+
+@media only screen 
+    and (max-width : 375px) 
+    and (max-height : 667px) 
+    and (-webkit-device-pixel-ratio : 2) {
+      .text {
+        text-align: -webkit-left;
+        font-weight: inherit;
+        font-family: "Open Sans",Arial,sans-serif;
+        margin-left: 48px;
+        margin-right: 54px;
+        font-weight: initial;
+        text-align: center;
+        font-size: 100%;
+        vertical-align: baseline;
+      }
+    }
+
+
+    .bg-light{
+      background-color: white;
+    }
+

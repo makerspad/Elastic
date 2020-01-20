@@ -1,0 +1,56 @@
+
+<nav class="navbar navbar-light navbar-expand-md bg-light justify-content-center ">
+<img style="width: 7%; margin-left: 10%;" src="./assets/img//elastic-logo.png" alt="elastic">
+
+
+  <div style="margin-left: -51%;" class="navbar-collapse collapse justify-content-between align-items-center w-100" id="collapsingNavbar2">
+      <ul class="navbar-nav mx-auto text-center">
+
+
+          <li class="nav-item active">
+              <a class="nav-link" routerLink='/DashBoard'>Products <span class="sr-only">Home</span></a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link"routerLink='/shop'>Learn</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" routerLink='/blog'>Company</a> 
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"routerLink='/contact'>Pricing</a> 
+
+        </li>
+      
+      </ul>
+    
+  </div>
+
+</nav>
+
+<button id="topBtn"><i class="fas fa-arrow-up"></i></button>
+
+  <router-outlet >
+     
+  </router-outlet>
+  <a  class="btn btn-info btn-lg"  *ngIf="isShow" class="arrow"  (click)="gotoTop()">
+    <span class="glyphicon glyphicon-arrow-up"></span> 
+  </a>
+
+  <script>
+
+    $(document).ready(function(){
+
+$(window).scroll(function(){
+  if($(this).scrollTop() > 40){
+    $('#topBtn').fadeIn();
+  } else{
+    $('#topBtn').fadeOut();
+  }
+});
+
+$("#topBtn").click(function(){
+  $('html ,body').animate({scrollTop : 0},800);
+});
+});
+
+  </script>
