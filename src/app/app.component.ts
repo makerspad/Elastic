@@ -7,6 +7,7 @@ import { Component, HostListener,ElementRef } from '@angular/core';
 })
 export class AppComponent {
   isShow: boolean;
+  isCollapsed = false;
     topPosToStartShowing = 200;
 //   onActivate(event) {
 //     window.scroll(0,0);
@@ -31,7 +32,6 @@ checkScroll() {
     this.isShow = false;
   }
 }
-
 
 
 // TODO: Cross browsing
