@@ -318,3 +318,14 @@ text-align: initial;
   margin-top: -370px;
     margin-left: -1227px;
 }
+@media only screen and (max-width: 767px) {
+.data{
+  margin-top: 58px;
+}
+}
+@media only screen and (max-width: 767px) {
+  .card1{
+    margin-top: 24px;
+}
+  }
+
