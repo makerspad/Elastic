@@ -7,6 +7,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 
 
 import { HttpClientModule } from '@angular/common/http';
+import { CareerComponent } from './career/career.component';
 
 
 
@@ -14,6 +15,7 @@ import { HttpClientModule } from '@angular/common/http';
   declarations: [
     AppComponent,
     DashboardComponent,
+    CareerComponent,
    
   ],
   imports: [

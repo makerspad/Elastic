@@ -139,7 +139,585 @@
         width: 100% !important;
     }
 
+    .Power-to-the {
+      width: 100%;
+      height: 73px;
+      font-family: Montserrat;
+      font-size: 60px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: center;
+      color: #ffffff;
+      position: absolute;
+      z-index: 1;
+      margin-top: 15%;
+      margin-left: -30%;
+      }
 
+      .product-managers {
+        width: 100%;
+        height: 73px;
+        font-family: Montserrat;
+        font-size: 60px;
+        font-weight: bold;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #ffffff;
+        position: absolute;
+        z-index: 1;
+        margin-top: 19%;
+        margin-left: -24%;
+      }
+     
 
-
+.INSIGHTS-TO-IMPROVE {
+  width: 100%;
+  height: 29px;
+  font-family: Montserrat;
+  font-size: 23px;
+      font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  z-index: 1;
+  position: absolute;
+  margin-top: 24%;
+  margin-left: -23%;
+}
+.Empowering-product-m {
+    width: 544px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 14px;
+        font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    z-index: 1;
+    position: absolute;
+    margin-top: 26.5%;
+    margin-left: 8%;
+    text-align: initial;
+  }
+  .Developer-and-langua  {
+    width: 404px;
+    height: 132px;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #001a35;
     
+  }
+  .Developer-and-langua1 {
+    width: 100%;
+    height: 132px;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #001a35;
+    margin-bottom: -50%;
+    margin-top: 32%;
+    margin-left: 57%;
+}
+  .Quickly-and-easily-in {
+    width: 518px;
+    height: 40px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #666666;
+    margin-left: 51%;
+        margin-top: 27%;
+
+    position: absolute;
+}
+
+  .Rectangle {
+    width: 100%;
+    height: 582px;
+    border-radius: 14px;
+    background-color: #f1f1f1;
+
+
+  }
+  .We-use-AI-to-extend {
+    width: 426px;
+    height: 20px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #666666;
+    font-weight: 600;
+  }
+  .Fall-in-love-with {
+    width: 347px;
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 42.8px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  .truly-love {
+    width: 209px;
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 42.8px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+  
+  .truly-love .text-style-1 {
+    letter-spacing: -0.43px;
+  }
+  .the-job-you {
+    width: 260px;
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 42.8px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
+
+  .Image-3 {
+    width: auto;
+    height: auto;
+    position: inherit;
+    margin-left: 74%;
+    margin-top: -29%;
+    padding-right: 40px;
+  }
+  .Were-obsessed-with {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #001a35;
+  }
+
+  .Ever-wonder-Why-my {
+    height: 60px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #666666;
+    font-weight: 600;
+   
+  }
+  
+  .Performance-Analytic {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #001a35;
+    font-weight: 800;
+  }
+  @media only screen and (max-width: 767px) {
+  .Power-to-the {
+    width: 100%;
+    height: auto;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    z-index: 1;
+    margin-top: 7%;
+    margin-left: -96px;
+  }
+}
+@media only screen and (max-width: 767px) {
+.product-managers {
+    width: 100%;
+    height: auto;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    z-index: 1;
+    margin-top: 14%;
+    margin-left: -18%;
+}
+}
+@media only screen and (max-width: 767px) {
+.INSIGHTS-TO-IMPROVE {
+    width: 100%;
+    /* height: 29px; */
+    font-family: Montserrat;
+    font-size: 9px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    z-index: 1;
+    position: absolute;
+    margin-top: 19%;
+    margin-left: -13%;
+}
+}
+@media only screen and (max-width: 767px) {
+  .Empowering-product-m {
+    width: 56%;
+    height: auto;
+    font-family: Montserrat;
+    font-size: 8px;
+        font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    z-index: 1;
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 6.5%;
+    text-align: initial;
+}
+}
+
+@media only screen and (max-width: 767px) {
+#first {
+    font-family: 'proxima-nova', sans-serif;
+    font-size: 35px;
+    line-height: 67px;
+    font-weight: initial;
+    margin-left: -20%;
+}
+}
+@media only screen and (max-width: 767px) {
+    #first{
+        font-family: 'proxima-nova', sans-serif;
+        font-size: 61px;
+        line-height: 79px;
+        font-weight: initial;
+      
+      
+    margin-top: 75%;
+  }}
+  @media only screen and (max-width: 767px) {
+  .Fall-in-love-with {
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 33.8px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    position: absolute;
+    margin-left: -49%;
+}
+  }
+
+  @media only screen and (max-width: 767px) {
+  .the-job-you {
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 34.8px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    position: absolute;
+    margin-top: 126%;
+    margin-left: -38%;
+}
+  }
+
+  @media only screen and (max-width: 767px) {
+  .truly-love {
+    height: 52px;
+    font-family: Montserrat;
+    font-size: 34.8px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    position: absolute;
+    margin-top: 252%;
+    margin-left: -38%;
+}
+  }
+  @media only screen and (max-width: 767px) {
+  .Were-obsessed-with {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 29px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #001a35;
+}
+  }
+
+  @media only screen and (max-width: 767px) {
+  .Rectangle {
+    width: 100%;
+        height: 310px;
+    border-radius: 14px;
+    background-color: #f1f1f1;
+}
+  }
+  @media only screen and (max-width: 767px) {
+  .Performance-Analytic {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #001a35;
+    margin-bottom: 6%;
+
+
+}
+  }
+
+  @media only screen and (max-width: 767px) {
+  .Developer-and-langua1 {
+    margin-top: 21%;
+    width: 100%;
+    /* height: auto; */
+    font-family: Montserrat;
+    font-size: 34px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    /* line-height: 120%; */
+    letter-spacing: normal;
+    color: #001a35;
+    margin-bottom: 1%;
+}
+  }
+  
+
+  .Behavioral-Analytics {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 700;
+    color: #001a35;
+  }
+
+  .Ever-wonder-How-are {
+    width: 717px;
+    height: 60px;
+    font-family: Montserrat;
+    font-size: 18px;
+        font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #666666;
+    font-weight: 600;
+  }
+
+  @media only screen and (max-width: 767px) {
+
+  .Behavioral-Analytics {
+    width: 100%;
+    font-family: Montserrat;
+    font-size: 33px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 33px;
+    letter-spacing: normal;
+    text-align: center;
+    color: #001a35;
+
+}
+  }
+
+  @media only screen and (max-width: 767px) {
+  #banner{
+    width: 61%;
+    position: relative;
+    margin-top: -49%;
+    margin-left: 56%;
+    z-index: 1;
+}
+  }
+
+  .How-it-all-works {
+    width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 54px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #263238;
+  }
+
+  .Makerspad-engineerin {
+    width: 100%;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+   
+    letter-spacing: normal;
+    color: #37474f;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+.How-it-all-works {
+  width: 100%;
+    height: 66px;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #263238;
+    margin-bottom: 13%;
+}
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+.Ever-wonder-How-are {
+  width: 717px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #666666;
+}
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+.align-self-center{
+  background-color: blue;
+  padding-right: 252px;
+  height: 423px;
+}}
+
+@media only screen and (max-width: 767px) {
+
+.Image-3 {
+  width: auto;
+  height: auto;
+  margin-left: -33%;
+  position: absolute;
+  margin-top: 467%;
+}
+}
+
+
+
+#banner{
+  width: 531px;
+  height: 531px;
+}
+
+
+
