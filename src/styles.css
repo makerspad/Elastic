@@ -238,7 +238,7 @@
     margin-left: 57%;
 }
   .Quickly-and-easily-in {
-    width: 518px;
+    width: 148%;
     height: 40px;
     font-family: Montserrat;
     font-size: 18px;
@@ -567,6 +567,7 @@
     letter-spacing: normal;
     color: #001a35;
     margin-bottom: 1%;
+    margin-left: 10px;
 }
   }
   
@@ -614,19 +615,20 @@
     letter-spacing: normal;
     text-align: center;
     color: #001a35;
+    margin-top: 0px;
 
 }
   }
 
   @media only screen and (max-width: 767px) {
-  #banner{
-    width: 61%;
-    position: relative;
-    margin-top: -49%;
-    margin-left: 56%;
-    z-index: 1;
-}
+    #banner{
+      width: 50% !important;
+      position: relative !important;
+      margin-top: -93% !important;
+      margin-left: 50%!important;
+      z-index:1!important;
   }
+}
 
   .How-it-all-works {
     width: 100%;
@@ -708,7 +710,7 @@
   height: auto;
   margin-left: -33%;
   position: absolute;
-  margin-top: 467%;
+  margin-top: 387%;
 }
 }
 
@@ -719,5 +721,38 @@
   height: 531px;
 }
 
+@media only screen and (max-width: 767px) {
+.Quickly-and-easily-in {
+  width: 96%;
+    height: auto;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #666666;
+    margin-left: 0%;
+    margin-top: -42px;
+    position: absolute;
+}
 
+}
+@media only screen and (max-width: 767px) {
+.text{
+  color: black;
+  font-size: 18px;
+  padding: 8px 14px !important;
+  position: inherit;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+}
 
+@media only screen and (max-width: 767px) {
+.slider{
+margin-top: 50px;
+}
+}
