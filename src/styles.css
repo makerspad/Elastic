@@ -641,6 +641,7 @@
     line-height: normal;
     letter-spacing: normal;
     color: #263238;
+    text-align: center;
   }
 
   .Makerspad-engineerin {
@@ -755,4 +756,13 @@
 .slider{
 margin-top: 50px;
 }
+}
+
+.Oval {
+  width: 22px;
+  height: 22px;
+  border-style: solid;
+  border-width: 3px;
+  border-image-source: linear-gradient(to right, #0067ff -1%, #77ffa2 101%);
+  border-image-slice: 1;
 }
