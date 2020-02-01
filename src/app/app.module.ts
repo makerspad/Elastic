@@ -16,6 +16,7 @@ import { CareerComponent } from './career/career.component';
     AppComponent,
     DashboardComponent,
     CareerComponent,
+    
    
   ],
   imports: [

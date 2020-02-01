@@ -143,7 +143,7 @@
     .Power-to-the {
       width: 100%;
       height: 73px;
-      font-family: Montserrat;
+      font-family: proxima-nova;
       font-size: 60px;
       font-weight: bold;
       font-stretch: normal;
@@ -161,7 +161,7 @@
       .product-managers {
         width: 100%;
         height: 73px;
-        font-family: Montserrat;
+        font-family: proxima-nova,sans-serif; 
         font-size: 60px;
         font-weight: bold;
         font-stretch: normal;
@@ -173,16 +173,16 @@
         position: absolute;
         z-index: 1;
         margin-top: 19%;
-        margin-left: -24%;
+        margin-left: -25%;
       }
      
 
 .INSIGHTS-TO-IMPROVE {
   width: 100%;
   height: 29px;
-  font-family: Montserrat;
+  font-family: proxima-nova,sans-serif; 
   font-size: 23px;
-      font-weight: 600;
+      font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
@@ -191,30 +191,30 @@
   color: #ffffff;
   z-index: 1;
   position: absolute;
-  margin-top: 10%;
-  margin-left: -23%;
+  margin-top: 11%;
+  margin-left: -24%
 }
 .Empowering-product-m {
     width: 544px;
     height: 44px;
-    font-family: Montserrat;
-    font-size: 14px;
-        font-weight: 600;
+    font-size: 17px;
+    font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     color: #ffffff;
+  
     z-index: 1;
     position: absolute;
     margin-top: 13.5%;
-    margin-left: -24%;
+    margin-left: -23.2%;
     text-align: initial;
   }
   .Developer-and-langua  {
     width: 404px;
     height: 132px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 54px;
     font-weight: 300;
     font-stretch: normal;
@@ -227,9 +227,9 @@
   .Developer-and-langua1 {
     width: 100%;
     height: 132px;
-    font-family: Montserrat;
-    font-size: 26px;
-    font-weight: 600;
+    font-family: proxima-nova;
+    font-size: 31px;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
@@ -241,14 +241,14 @@
   .Quickly-and-easily-in {
     width: 148%;
     height: 40px;
-    font-family: Montserrat;
-    font-size: 18px;
-    font-weight: 600;
+    font-family: proxima-nova;
+    font-size: 16px;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: #666666;
+    color: #001a35;
     margin-left: 51%;
         margin-top: 27%;
 
@@ -266,9 +266,9 @@
   .We-use-AI-to-extend {
     width: 213px;
     height: 78px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.5;
@@ -278,8 +278,8 @@
   .Fall-in-love-with {
     width: 347px;
     height: 52px;
-    font-family: Montserrat;
-    font-size: 42.8px;
+    font-family: proxima-nova;
+    font-size: 35.8px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -290,8 +290,8 @@
   .truly-love {
     width: 209px;
     height: 52px;
-    font-family: Montserrat;
-    font-size: 42.8px;
+    font-family: proxima-nova;
+    font-size: 35.8px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -306,8 +306,8 @@
   .the-job-you {
     width: 260px;
     height: 52px;
-    font-family: Montserrat;
-    font-size: 42.8px;
+    font-family: proxima-nova;
+    font-size: 35.8px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -327,9 +327,9 @@
   .Were-obsessed-with {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 54px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -340,22 +340,22 @@
 
   .Ever-wonder-Why-my {
     height: 60px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #666666;
-    font-weight: 600;
+    color: #001a35;
+    font-weight: 300;
    
   }
   
   .Performance-Analytic {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 54px;
     font-weight: 300;
     font-stretch: normal;
@@ -370,7 +370,7 @@
   .Power-to-the {
     width: 100%;
     height: auto;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 22px;
     font-weight: bold;
     font-stretch: normal;
@@ -390,7 +390,7 @@
 .product-managers {
     width: 100%;
     height: auto;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 21px;
     font-weight: bold;
     font-stretch: normal;
@@ -409,9 +409,9 @@
 .INSIGHTS-TO-IMPROVE {
     width: 100%;
     /* height: 29px; */
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 9px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -428,9 +428,9 @@
   .Empowering-product-m {
     width: 56%;
     height: auto;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 8px;
-        font-weight: 600;
+        font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -467,9 +467,9 @@
   @media only screen and (max-width: 767px) {
   .Fall-in-love-with {
     height: 52px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 33.8px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -483,9 +483,9 @@
   @media only screen and (max-width: 767px) {
   .the-job-you {
     height: 52px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 34.8px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -500,9 +500,9 @@
   @media only screen and (max-width: 767px) {
   .truly-love {
     height: 52px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 34.8px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -517,9 +517,9 @@
   .Were-obsessed-with {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 29px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -541,9 +541,9 @@
   .Performance-Analytic {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 32px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
@@ -560,9 +560,9 @@
     margin-top: 21%;
     width: 100%;
     /* height: auto; */
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 34px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     /* line-height: 120%; */
@@ -577,31 +577,30 @@
   .Behavioral-Analytics {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 54px;
-    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    font-weight: 700;
+    font-weight: 300;
     color: #001a35;
+    margin-top: 8%;
   }
 
   .Ever-wonder-How-are {
     width: 717px;
     height: 60px;
-    font-family: Montserrat;
-    font-size: 18px;
-        font-weight: 600;
+    font-family: proxima-nova;
+    font-size: 16px;
+        font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #666666;
-    font-weight: 600;
+    color: #001a35;
     
   }
 
@@ -609,9 +608,9 @@
 
   .Behavioral-Analytics {
     width: 100%;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 33px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: 33px;
@@ -637,9 +636,9 @@
   .How-it-all-works {
     width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 54px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
@@ -651,14 +650,15 @@
   .Makerspad-engineerin {
     width: 100%;
     height: 44px;
-    font-family: Montserrat;
-    font-size: 18px;
-    font-weight: 600;
+    font-family: proxima-nova;
+    font-size: 16px;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
-   
+    line-height: normal;
     letter-spacing: normal;
-    color: #37474f;
+    text-align: center;
+    color: #001a35;
 }
 
 
@@ -667,14 +667,13 @@
 .How-it-all-works {
   width: 100%;
     height: 66px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 32px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
     color: #263238;
-    margin-bottom: 13%;
 }
 }
 
@@ -685,15 +684,15 @@
 
 .Ever-wonder-How-are {
   width: 717px;
-  font-family: Montserrat;
+  font-family: proxima-nova;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
   text-align: center;
-  color: #666666;
+  color: #001a35;
 
 }
 }
@@ -731,14 +730,14 @@
 .Quickly-and-easily-in {
   width: 96%;
     height: auto;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: #666666;
+    color: #001a35;
     margin-left: 0%;
     margin-top: -42px;
     position: absolute;
@@ -779,16 +778,16 @@ margin-left: 76px!important;
 .Ever-wonder-How-are2 {
   width: 717px;
   height: 60px;
-  font-family: Montserrat;
+  font-family: proxima-nova;
   font-size: 18px;
-      font-weight: 600;
+      font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
   text-align: center;
-  color: #666666;
-  font-weight: 600;
+  color: #001a35;
+  font-weight: 300;
   position: absolute;
   margin-left: -24%;
   
@@ -800,16 +799,16 @@ margin-left: 76px!important;
 .Ever-wonder-How-are2 {
   width: 717px;
     height: 60px;
-    font-family: Montserrat;
+    font-family: proxima-nova;
     font-size: 18px;
-        font-weight: 600;
+        font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #666666;
-    font-weight: 600;
+    color: #001a35;
+    font-weight: 300;
     margin-left: 0%;
     position: relative;
 }
@@ -982,6 +981,102 @@ color: #fff;
 background: #51658d;
 padding: 30px 0;
 font-family: 'Open Sans', sans-serif;
-margin-left: -23%;
+margin-left: -4%;
+    width: 117%;
 }
 }
+
+
+
+.tunnel{
+  width: 155%;
+}
+
+@media screen and (max-width: 500px) {
+
+.tunnel{
+  width: 100%;
+}
+}
+
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 10%;
+}
+
+
+.How-we-use-AI {
+  width: 353px;
+  height: 66px;
+  font-family: Proxima-Nova;
+  font-size: 54px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  margin-left: 39%;
+  margin-top: 10%;
+  white-space: nowrap;
+}
+
+.How-we-use-AI .text-style-1 {
+  font-weight: 500;
+  color: #0064ff;
+}
+
+
+
+.How-we-use-AI {
+  width: 353px;
+  height: 66px;
+  font-family: Proxima-Nova;
+  font-size: 54px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #001a35;
+}
+
+.How-we-use-AI .text-style-1 {
+  font-weight: 500;
+  color: #0064ff;
+}
+
+
+.How-we-use-AI2{
+  font-size: 54px;
+  color: #0064ff;
+  margin-top: -18%;
+  margin-left: 96%;
+}
+
+@media screen and (max-width: 500px) {
+
+.How-we-use-AI {
+  width: 353px;
+  height: 66px;
+  font-family: Proxima-Nova;
+  font-size: 54px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #001a35;
+  margin-left: -14%;
+}
+}
+
+
+
+
+
+
+
+

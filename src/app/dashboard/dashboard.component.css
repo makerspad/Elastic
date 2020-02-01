@@ -24,7 +24,7 @@
 
 .ctr{
    
-    color: #666666;
+    color: #001a35;
     padding-top:20px;
     text-align: center;
     margin: auto;
@@ -35,7 +35,7 @@
 
 li{
   text-align: end;
-  color:#666666;
+  color:#001a35;
 }
  i.fa.fa-plus-circle{
   color: black;
@@ -221,17 +221,7 @@ padding: 8px;
       font-size: 18px;
       text-transform: uppercase;
   }
-  .tt-copy
-  {
-  font-size: 15px;
-  line-height: 20px;
-  color: #fff;
-  background: #51658d;
-  padding: 30px 0;
-  font-family: 'Open Sans', sans-serif;
-  margin-left: -23%;
-  width: 140%;
-  }
+  
 
 
   .tt-copy-right {
