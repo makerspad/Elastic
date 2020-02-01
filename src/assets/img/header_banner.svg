@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1300px" height="695px" viewBox="0 0 1300 695" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Fill 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0077CC" offset="0%"></stop>
+            <stop stop-color="#2649B8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" fill="url(#linearGradient-1)">
+            <path d="M-9,0 L-7.12921288,688.287463 C-7.12921288,688.287463 355.793579,732.025171 647.629763,596.209867 L647.629763,596.209867 C939.464847,460.393465 1044.22562,469.602212 1308,607.719155 L1308,607.719155 L1308,0 L-9,0 Z" id="Fill-2"></path>
+        </g>
+    </g>
+</svg>

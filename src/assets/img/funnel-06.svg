@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="536px" height="437px" viewBox="0 0 536 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>funnel-06</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.679586357%" y1="49.939973%" x2="100.621856%" y2="49.939973%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50.0121075%" x2="100.014076%" y2="50.0121075%" id="linearGradient-2">
+            <stop stop-color="#0067FF" offset="0%"></stop>
+            <stop stop-color="#77FFA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.9805825%" x2="99.9998571%" y2="49.9805825%" id="linearGradient-3">
+            <stop stop-color="#0067FF" offset="0%"></stop>
+            <stop stop-color="#77FFA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.528596968%" y1="49.9834811%" x2="100.528571%" y2="49.9834811%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.417196342%" y1="49.9881632%" x2="100.414988%" y2="49.9881632%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.9596449%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#0E99FE" offset="0%"></stop>
+            <stop stop-color="#00347E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.9038462%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#154BFF" offset="0%"></stop>
+            <stop stop-color="#77FFA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.665534854%" y1="49.9380233%" x2="100.631498%" y2="49.9380233%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.523310998%" y1="49.9834811%" x2="100.528571%" y2="49.9834811%" id="linearGradient-11">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#AFDC6B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.417198467%" y1="49.9907931%" x2="100.415499%" y2="49.9907931%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FE5F8E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FE5F8E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.680158%" y1="49.9387209%" x2="-0.638958572%" y2="49.9387209%" id="linearGradient-15">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.502061%" y1="49.982104%" x2="-0.528459611%" y2="49.982104%" id="linearGradient-16">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9862478%" y1="100.015782%" x2="49.9862478%" y2="-0.044715661%" id="linearGradient-17">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.8674041e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-18">
+            <stop stop-color="#154BFF" offset="0%"></stop>
+            <stop stop-color="#77FFA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-19">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.677157%" y1="49.9385372%" x2="-0.635934063%" y2="49.9385372%" id="linearGradient-20">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.528597%" y1="49.9683379%" x2="-0.528571348%" y2="49.9683379%" id="linearGradient-21">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.413024%" y1="49.9868483%" x2="-0.419159486%" y2="49.9868483%" id="linearGradient-22">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0403551251%" y1="50%" x2="100%" y2="50%" id="linearGradient-23">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.9038462%" y2="50%" id="linearGradient-24">
+            <stop stop-color="#0E99FE" offset="0%"></stop>
+            <stop stop-color="#00347E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.74956589e-13%" y1="50%" x2="100%" y2="50%" id="linearGradient-25">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0961538462%" y1="50%" x2="100%" y2="50%" id="linearGradient-26">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FE5F8E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0961538462%" y1="50%" x2="100%" y2="50%" id="linearGradient-27">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0961538462%" y1="50%" x2="100%" y2="50%" id="linearGradient-28">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.8542274%" y2="50%" id="linearGradient-29">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#CB93F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.50122549%" y1="50%" x2="101.531863%" y2="50%" id="linearGradient-30">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#0067FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-31">
+            <stop stop-color="#0067FF" offset="0%"></stop>
+            <stop stop-color="#77FFA2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1.53186275%" y1="50%" x2="101.501225%" y2="50%" id="linearGradient-32">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#7CD334" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" transform="translate(-705.000000, -2284.000000)">
+            <g id="funnel-06" transform="translate(704.000000, 2282.000000)">
+                <path d="M282.215899,407 C282.215899,407 273.814006,328.508729 361.836671,264.298084 C449.859337,200.087439 469.535692,193.364514 501,109" id="Path" stroke="url(#linearGradient-1)" stroke-width="4"></path>
+                <g id="Group" opacity="0.53" transform="translate(203.000000, 112.000000)" fill-rule="nonzero">
+                    <path d="M36.4611982,78.8086957 L28.1148387,78.8086957 C29.9513364,80.5186957 31.9122581,82.2088696 33.9976037,83.8792174 C34.2182008,84.5022039 34.5930931,85.0596761 35.0875576,85.5 L35.162212,85.566913 C69.5032258,116.168478 75.542765,155.223391 76.5879263,167.215696 C76.7698645,169.285696 78.5103835,170.873609 80.5968664,170.873609 L81.3807373,170.873609 C83.4672202,170.873609 85.2077392,169.285696 85.3896774,167.215696 C86.4348387,155.223391 92.4445161,116.168478 126.815392,85.566913 L126.912442,85.5 C127.330062,85.1280495 127.663434,84.6718622 127.890415,84.1617391 C130.130046,82.3873043 132.230323,80.588087 134.191244,78.764087 L125.576129,78.764087" id="Path" fill="url(#linearGradient-2)"></path>
+                    <path d="M161.447558,1.48695652 L161.723779,0.48326087 L0.313548387,0.48326087 L0.597235023,1.50182609 C0.0447926267,7.23404348 -1.56774194,36.185087 18.0887558,64.7866957 C21.0654971,69.1225092 24.3698183,73.2260082 27.9729954,77.0615217 L134.071797,77.0615217 C137.670059,73.2244046 140.974084,69.1237582 143.956037,64.7941304 C163.634931,36.147913 162,7.15969565 161.447558,1.48695652 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                </g>
+                <text id="Prioritization-Scores" fill="#2A2788" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="318" y="412">Prioritization Scores</tspan>
+                </text>
+                <text id="Emotions" fill="#2A2788" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="253" y="438">Emotions</tspan>
+                </text>
+                <text id="Engagement" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="343" y="375">Engagement</tspan>
+                </text>
+                <text id="Feature-Adoption" fill="#2A2788" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="97" y="377">Feature Adoption</tspan>
+                </text>
+                <text id="Sentiments" fill="#2A2788" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="170" y="413">Sentiments</tspan>
+                </text>
+                <path d="M399.76273,105 C399.76273,105 414.669164,176.361709 341.001565,236.65492 C290.744521,277.784538 264.233427,322.675513 260,375" id="Path" stroke="url(#linearGradient-4)" stroke-width="2"></path>
+                <path d="M444.349998,101 C444.349998,101 456.647611,174.561985 374.262515,232.015072 C310.524342,276.448536 272.32451,329.159771 267,384" id="Path" stroke="url(#linearGradient-5)" stroke-width="2"></path>
+                <circle id="Oval" fill="url(#linearGradient-6)" fill-rule="nonzero" cx="445" cy="104" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-7)" fill-rule="nonzero" cx="501" cy="108" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-8)" fill-rule="nonzero" cx="401" cy="107" r="9"></circle>
+                <ellipse id="Oval" fill="url(#linearGradient-9)" fill-rule="nonzero" cx="262" cy="363.5" rx="4" ry="3.5"></ellipse>
+                <path d="M305.214688,388 C305.214688,388 296.824847,309.678834 384.940536,245.607346 C473.056224,181.535858 496.549271,178.174243 528,94" id="Path" stroke="url(#linearGradient-10)" stroke-width="4"></path>
+                <path d="M423.76273,87 C423.76273,87 438.669164,158.361709 365.001565,218.65492 C314.744521,259.784538 288.233427,304.675513 284,357" id="Path" stroke="url(#linearGradient-11)" stroke-width="2"></path>
+                <path d="M467.350901,82 C467.350901,82 479.641151,155.5733 397.263061,213.021965 C333.524564,257.420545 295.324537,310.156885 290,365" id="Path" stroke="url(#linearGradient-12)" stroke-width="2"></path>
+                <circle id="Oval" fill="url(#linearGradient-13)" fill-rule="nonzero" cx="468" cy="85" r="9"></circle>
+                <circle id="Oval" fill="#00347E" fill-rule="nonzero" cx="528" cy="89" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-14)" fill-rule="nonzero" cx="424" cy="88" r="9"></circle>
+                <path d="M276.785057,400 C276.785057,400 285.173529,321.514219 197.142949,257.294515 C109.112369,193.074811 89.4623541,186.359171 58,102" id="Path" stroke="url(#linearGradient-15)" stroke-width="4"></path>
+                <path d="M158.237009,99 C158.237009,99 143.333725,170.363674 216.985752,230.651111 C267.232172,271.781862 293.774919,316.674073 298,369" id="Path" stroke="url(#linearGradient-16)" stroke-width="2"></path>
+                <path d="M114.649099,95 C114.649099,95 102.358849,168.567494 184.736939,226.011626 C248.475436,270.443921 286.675463,323.161213 292,378" id="Path" stroke="url(#linearGradient-17)" stroke-width="2"></path>
+                <circle id="Oval" fill="url(#linearGradient-8)" fill-rule="nonzero" cx="114" cy="98" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-18)" fill-rule="nonzero" cx="58" cy="101" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-19)" fill-rule="nonzero" cx="158" cy="100" r="9"></circle>
+                <path d="M252.785578,381 C252.785578,381 261.165024,302.526583 173.158515,238.316994 C85.1520054,174.107406 64.4043183,174.345882 33,90" id="Path" stroke="url(#linearGradient-20)" stroke-width="4"></path>
+                <path d="M135.23727,80 C135.23727,80 120.330836,151.363674 193.998435,211.651111 C244.255479,252.781862 270.803839,297.674073 275,350" id="Path" stroke="url(#linearGradient-21)" stroke-width="2"></path>
+                <path d="M91.650002,76 C91.650002,76 79.3523888,149.567494 161.737485,207.011626 C225.475658,251.443921 263.67549,304.161213 269,359" id="Path" stroke="url(#linearGradient-22)" stroke-width="2"></path>
+                <circle id="Oval" fill="url(#linearGradient-23)" fill-rule="nonzero" cx="90" cy="79" r="9"></circle>
+                <circle id="Oval" fill="url(#linearGradient-7)" fill-rule="nonzero" cx="31" cy="84" r="9"></circle>
+                <circle id="Oval" fill="#1771FF" fill-rule="nonzero" cx="135" cy="82" r="9"></circle>
+                <text id="Behavioral" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="47" y="17">Behavioral</tspan>
+                </text>
+                <g id="Group" transform="translate(0.000000, 39.000000)" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <text id="P">
+                        <tspan x="0" y="13">P</tspan>
+                    </text>
+                    <text id="erformance">
+                        <tspan x="8" y="13">erformance</tspan>
+                    </text>
+                </g>
+                <text id="Feedback-data" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="104" y="46">Feedback data</tspan>
+                </text>
+                <g id="Group" transform="translate(158.000000, 0.000000)" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <text id="P">
+                        <tspan x="0" y="13">P</tspan>
+                    </text>
+                    <text id="age-Views">
+                        <tspan x="8" y="13">age Views</tspan>
+                    </text>
+                </g>
+                <text id="Survey-data" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <tspan x="420" y="60">Survey data</tspan>
+                </text>
+                <g id="Group" transform="translate(395.000000, 15.000000)" fill="#29278A" font-family="ProximaNova-Medium, Proxima Nova" font-size="14" font-weight="400">
+                    <text id="T">
+                        <tspan x="0" y="13">T</tspan>
+                    </text>
+                    <text id="ransactional">
+                        <tspan x="7" y="13">ransactional</tspan>
+                    </text>
+                </g>
+                <ellipse id="Oval" fill="url(#linearGradient-24)" fill-rule="nonzero" cx="305" cy="377.5" rx="4" ry="3.5"></ellipse>
+                <circle id="Oval" fill="url(#linearGradient-7)" fill-rule="nonzero" cx="281.5" cy="392.5" r="5.5"></circle>
+                <circle id="Oval" fill="url(#linearGradient-25)" fill-rule="nonzero" cx="253.5" cy="381.5" r="5.5"></circle>
+                <ellipse id="Oval" fill="url(#linearGradient-26)" fill-rule="nonzero" cx="276" cy="380.5" rx="4" ry="3.5"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-27)" fill-rule="nonzero" cx="293" cy="372.5" rx="4" ry="3.5"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-28)" fill-rule="nonzero" cx="266" cy="388.5" rx="4" ry="3.5"></ellipse>
+                <ellipse id="Oval" fill="#00347E" fill-rule="nonzero" cx="291" cy="382.5" rx="4" ry="3.5"></ellipse>
+                <circle id="Oval" fill="url(#linearGradient-29)" fill-rule="nonzero" cx="302.5" cy="367.5" r="2.5"></circle>
+                <ellipse id="Oval" stroke="#1771FF" fill="#1771FF" fill-rule="nonzero" cx="275" cy="370.5" rx="3" ry="2.5"></ellipse>
+                <ellipse id="Oval" stroke="url(#linearGradient-30)" cx="501" cy="107.5" rx="12" ry="11.5"></ellipse>
+                <ellipse id="Oval" fill="url(#linearGradient-31)" fill-rule="nonzero" cx="283.5" cy="111" rx="80.5" ry="20"></ellipse>
+                <ellipse id="Oval" stroke="url(#linearGradient-32)" cx="90" cy="79.5" rx="12" ry="11.5"></ellipse>
+                <circle id="Oval" fill="#0E99FE" fill-rule="nonzero" cx="287" cy="55" r="34"></circle>
+                <circle id="Oval" fill="#CB93F5" fill-rule="nonzero" cx="316" cy="32" r="9"></circle>
+                <circle id="Oval" fill="#00E5C0" fill-rule="nonzero" cx="354.5" cy="37.5" r="16.5"></circle>
+                <circle id="Oval" fill="#FE5F8E" fill-rule="nonzero" cx="227.5" cy="62.5" r="16.5"></circle>
+                <circle id="Oval" fill="#ACD8F9" fill-rule="nonzero" cx="263.5" cy="84.5" r="7.5"></circle>
+                <circle id="Oval" fill="#F86691" fill-rule="nonzero" cx="285" cy="21" r="5"></circle>
+                <circle id="Oval" fill="#F86691" fill-rule="nonzero" cx="323" cy="57" r="5"></circle>
+                <circle id="Oval" fill="#7CD334" fill-rule="nonzero" cx="252.5" cy="96.5" r="11.5"></circle>
+                <circle id="Oval" fill="#00347E" fill-rule="nonzero" cx="235" cy="92" r="4"></circle>
+                <circle id="Oval" fill="#00347E" fill-rule="nonzero" cx="276" cy="102" r="6"></circle>
+                <circle id="Oval" fill="#2891DD" fill-rule="nonzero" cx="289" cy="107" r="4"></circle>
+                <circle id="Oval" fill="#2891DD" fill-rule="nonzero" cx="342.5" cy="62.5" r="2.5"></circle>
+                <circle id="Oval" fill="#00E5C0" fill-rule="nonzero" cx="306" cy="109" r="6"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

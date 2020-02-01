@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1147px" height="629px" viewBox="0 0 1147 629" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="714" y="28" width="226" height="120" rx="4"></rect>
+        <filter x="-8.4%" y="-14.2%" width="116.8%" height="131.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.443137255   0 0 0 0 0.815686275  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="716" y="222" width="226" height="141" rx="4"></rect>
+        <filter x="-8.4%" y="-12.1%" width="116.8%" height="127.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.443137255   0 0 0 0 0.815686275  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="0 121 219 121 219 30 0 30"></polygon>
+        <filter x="-8.7%" y="-18.7%" width="117.4%" height="141.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.443137255   0 0 0 0 0.815686275  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="0 119 219 119 219 28 0 28"></polygon>
+        <filter x="-8.7%" y="-18.7%" width="117.4%" height="141.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.443137255   0 0 0 0 0.815686275  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-9" points="0 119 219 119 219 28 0 28"></polygon>
+        <filter x="-8.7%" y="-18.7%" width="117.4%" height="141.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.352941176   0 0 0 0 0.443137255   0 0 0 0 0.815686275  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-page" transform="translate(-153.000000, -3684.000000)">
+            <g id="Group-8" transform="translate(154.000000, 3684.000000)">
+                <path d="M341,68.9995127 C341,71.7575285 338.760554,74 335.999513,74 C333.238471,74 331,71.7575285 331,68.9995127 C331,66.2414969 333.238471,64 335.999513,64 C338.760554,64 341,66.2414969 341,68.9995127" id="Fill-640" fill="#FFFFFE"></path>
+                <rect id="Rectangle" stroke="#0064FF" fill="#FFFFFF" x="0.5" y="27.5" width="225" height="95" rx="4"></rect>
+                <rect id="Rectangle" stroke="#0064FF" fill="#FFFFFF" x="683.5" y="88.5" width="72" height="203" rx="8"></rect>
+                <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="720" y="90" width="73" height="204" rx="8"></rect>
+                <circle id="Oval" stroke="#0064FF" fill="#0064FF" cx="683.5" cy="190.5" r="6"></circle>
+                <circle id="Oval-Copy-8" stroke="#0064FF" fill="#0064FF" cx="327.5" cy="298.5" r="6"></circle>
+                <circle id="Oval-Copy" stroke="#0064FF" fill="#0064FF" cx="714.5" cy="88.5" r="6"></circle>
+                <circle id="Oval-Copy-7" stroke="#0064FF" fill="#0064FF" cx="714.5" cy="291.5" r="6"></circle>
+                <g id="Rectangle-Copy">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="Engagement-score" font-family="ProximaNova-Medium, Proxima Nova" font-size="12" font-weight="400" fill="#121212">
+                    <tspan x="724" y="53">Engagement score</tspan>
+                </text>
+                <circle id="Oval-Copy-11" fill-opacity="0.6" fill="#E9F4FF" cx="1027.5" cy="433.5" r="183.5"></circle>
+                <g id="Rectangle-Copy-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <circle id="Oval" stroke="#66B3FF" fill="#66B3FF" cx="740" cy="283" r="7.5"></circle>
+                <path d="M738.116978,282.872047 L745.116978,282.872047" id="Line-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(741.616978, 282.872047) rotate(-44.000000) translate(-741.616978, -282.872047) "></path>
+                <path d="M735.388945,283.308467 L738.611055,285.691533" id="Line-3-Copy-2" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"></path>
+                <circle id="Oval" stroke="#D64246" fill="#D64246" cx="740" cy="303" r="7.5"></circle>
+                <path d="M738.116978,302.872047 L745.116978,302.872047" id="Line-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(741.616978, 302.872047) rotate(-44.000000) translate(-741.616978, -302.872047) "></path>
+                <path d="M735,303.550653 L739,303.550653" id="Line-3-Copy" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(737.000000, 303.550653) rotate(44.000000) translate(-737.000000, -303.550653) "></path>
+                <circle id="Oval" stroke="#66B3FF" fill="#66B3FF" cx="740" cy="323" r="7.5"></circle>
+                <path d="M738.116978,322.872047 L745.116978,322.872047" id="Line-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(741.616978, 322.872047) rotate(-44.000000) translate(-741.616978, -322.872047) "></path>
+                <path d="M735,323.550653 L739,323.550653" id="Line-3-Copy" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(737.000000, 323.550653) rotate(44.000000) translate(-737.000000, -323.550653) "></path>
+                <circle id="Oval" stroke="#66B3FF" fill="#66B3FF" cx="740" cy="343" r="7.5"></circle>
+                <path d="M738.116978,342.872047 L745.116978,342.872047" id="Line-3" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(741.616978, 342.872047) rotate(-44.000000) translate(-741.616978, -342.872047) "></path>
+                <path d="M735,343.550653 L739,343.550653" id="Line-3-Copy" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" transform="translate(737.000000, 343.550653) rotate(44.000000) translate(-737.000000, -343.550653) "></path>
+                <text id="75%" font-family="ProximaNova-Bold, Proxima Nova" font-size="12" font-weight="bold" fill="#121212">
+                    <tspan x="893" y="250">75%</tspan>
+                </text>
+                <text id="80%" font-family="ProximaNova-Bold, Proxima Nova" font-size="16" font-weight="bold" fill="#121212">
+                    <tspan x="724" y="76">80%</tspan>
+                </text>
+                <text id="Actively-login" font-family="ProximaNova-Medium, Proxima Nova" font-size="10" font-weight="400" fill="#121212">
+                    <tspan x="732" y="249">Actively login</tspan>
+                </text>
+                <g id="lines" transform="translate(732.000000, 264.000000)" stroke-linecap="round" stroke-width="6">
+                    <path d="M63.5,0.5 L164.5,0.5" id="Line-Copy" stroke="#D6D6D6"></path>
+                    <path d="M0.5,0.5 L101.5,0.5" id="Line" stroke="#0064FF"></path>
+                </g>
+                <g id="lines-copy" transform="translate(758.000000, 283.000000)" stroke="#D6D6D6" stroke-linecap="round" stroke-width="4">
+                    <path d="M0.637254902,0.5 L129.362745,0.5" id="Line-Copy"></path>
+                </g>
+                <g id="lines-copy-2" transform="translate(758.000000, 302.000000)" stroke="#D6D6D6" stroke-linecap="round" stroke-width="4">
+                    <path d="M0.367647059,0.5 L74.6323529,0.5" id="Line-Copy"></path>
+                </g>
+                <circle id="Oval" fill="#0064FF" cx="362.5" cy="468.5" r="2.5"></circle>
+                <circle id="Oval-Copy-13" fill="#0064FF" cx="411.5" cy="522.5" r="2.5"></circle>
+                <circle id="Oval-Copy-16" fill="#0064FF" cx="630.5" cy="522.5" r="2.5"></circle>
+                <circle id="Oval-Copy-17" fill="#0064FF" cx="675.5" cy="469.5" r="2.5"></circle>
+                <g id="lines-copy-3" transform="translate(758.000000, 322.000000)" stroke="#D6D6D6" stroke-linecap="round" stroke-width="4">
+                    <path d="M0.441176471,0.5 L89.5588235,0.5" id="Line-Copy"></path>
+                </g>
+                <g id="lines-copy-4" transform="translate(758.000000, 343.000000)" stroke="#D6D6D6" stroke-linecap="round" stroke-width="4">
+                    <path d="M0.196078431,0.5 L39.8039216,0.5" id="Line-Copy"></path>
+                </g>
+                <g id="illus-06" transform="translate(0.000000, 173.000000)">
+                    <path d="M14,117 L155,117" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <path d="M12,97 L153,97" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <path d="M4,80 L145,80" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <path d="M82,99 L223,99" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <path d="M101,119 L242,119" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <path d="M84,153 L225,153" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="214" y="171" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="219" y="171" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="223" y="171" width="3" height="3" rx="1.5"></rect>
+                    <path d="M70,172 L211,172" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="231" y="171" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="235" y="171" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="158" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="162" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="166" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="170" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="175" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="179" y="116" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="156" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="160" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="165" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="169" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="173" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#898989" fill-rule="nonzero" x="177" y="96" width="3" height="3" rx="0.76"></rect>
+                    <rect id="Rectangle" fill="#E9F4FF" fill-rule="nonzero" x="18" y="63" width="202" height="108"></rect>
+                    <rect id="Rectangle" fill="#51A9FF" fill-rule="nonzero" x="18" y="63" width="202" height="29"></rect>
+                    <rect id="Rectangle" fill="#92C9FF" fill-rule="nonzero" opacity="0.41" x="32" y="105" width="174" height="22"></rect>
+                    <rect id="Rectangle" fill="#92C9FF" fill-rule="nonzero" opacity="0.41" x="32" y="137" width="88" height="21"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="27" y="75" width="8" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="41" y="75" width="8" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="54" y="75" width="8" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="144" y="0" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="148" y="0" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="152" y="0" width="3" height="3" rx="1.5"></rect>
+                    <path d="M138,140 L204,140" id="Path" stroke="#BDDEFF" stroke-width="2" opacity="0.41" stroke-linecap="round"></path>
+                    <path d="M139,156 L204,156" id="Path" stroke="#BDDEFF" stroke-width="2" opacity="0.41" stroke-linecap="round"></path>
+                    <path d="M155,148 L204,148" id="Path" stroke="#BDDEFF" stroke-width="2" opacity="0.41" stroke-linecap="round"></path>
+                    <path d="M0,1 L141,1" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="161" y="0" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="165" y="0" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="158" y="18" width="3" height="3" rx="1.5"></rect>
+                    <path d="M14,19 L155,19" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="171" y="18" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="175" y="18" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="179" y="18" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="180" y="33" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="184" y="33" width="3" height="3" rx="1.5"></rect>
+                    <path d="M31,34 L172,34" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="196" y="33" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="193" y="50" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="197" y="50" width="3" height="3" rx="1.5"></rect>
+                    <path d="M45,51 L186,51" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="202" y="50" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="210" y="50" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="226" y="97" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="239" y="97" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="243" y="97" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="247" y="97" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="245" y="118" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="249" y="118" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="253" y="118" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="262" y="118" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="177" y="186" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="181" y="186" width="3" height="3" rx="1.5"></rect>
+                    <path d="M33,187 L174,187" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="198" y="186" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="160" y="207" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="164" y="207" width="3" height="3" rx="1.5"></rect>
+                    <path d="M16,208 L157,208" id="Path" stroke="#BDDEFF" stroke-width="1.5" opacity="0.29" stroke-linecap="round"></path>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="176" y="207" width="3" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" fill="#BDDEFF" fill-rule="nonzero" opacity="0.29" x="181" y="207" width="3" height="3" rx="1.5"></rect>
+                </g>
+                <g id="Group-5" transform="translate(327.000000, 28.000000)">
+                    <polygon id="Fill-1" stroke="#0064FF" fill="#FEFEFE" points="0 334 314 334 314 0 0 0"></polygon>
+                    <polygon id="Stroke-2" stroke="#888888" stroke-width="0.5" points="0 334 314 334 314 0 0 0"></polygon>
+                    <polygon id="Fill-4" fill="#0064FF" points="0 61 314 61 314 0 0 0"></polygon>
+                </g>
+                <g id="Group-2" transform="translate(143.000000, 391.000000)">
+                    <path d="M136,25.9990684 C136,40.3587373 124.358737,52 109.999068,52 C95.6412627,52 84,40.3587373 84,25.9990684 C84,11.6412627 95.6412627,0 109.999068,0 C124.358737,0 136,11.6412627 136,25.9990684" id="Fill-4" fill="#0064FF"></path>
+                    <g id="Stroke-1">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <path d="M136,25.9990684 C136,40.3587373 124.358737,52 109.999068,52 C95.6412627,52 84,40.3587373 84,25.9990684 C84,11.6412627 95.6412627,0 109.999068,0 C124.358737,0 136,11.6412627 136,25.9990684" id="Fill-4" fill="#0064FF"></path>
+                    <path d="M136,25.9990684 C136,40.3587373 124.358737,52 109.999068,52 C95.6412627,52 84,40.3587373 84,25.9990684 C84,11.6412627 95.6412627,0 109.999068,0 C124.358737,0 136,11.6412627 136,25.9990684 Z" id="Stroke-5" stroke="#888888" stroke-width="0.5"></path>
+                    <text id="Analyze-performance" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="22" fill="#060606">
+                        <tspan x="18.992" y="78">Analyze performance and </tspan>
+                        <tspan x="70.112" y="100">usage data</tspan>
+                    </text>
+                    <text id="2" font-family="Lato-Bold, Lato" font-size="22" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="104" y="35">2</tspan>
+                    </text>
+                </g>
+                <text id="14" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" fill="#060606">
+                    <tspan x="344.101562" y="154">14</tspan>
+                </text>
+                <text id="6" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" fill="#060606">
+                    <tspan x="349.050781" y="214">6</tspan>
+                </text>
+                <text id="10" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" fill="#060606">
+                    <tspan x="344.101562" y="271">10</tspan>
+                </text>
+                <text id="Generating-leads" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#060606">
+                    <tspan x="381.972" y="128">Generating leads</tspan>
+                </text>
+                <text id="Somewhat-important" font-family="ProximaNova-Regular, Proxima Nova" font-size="10" font-weight="normal" fill="#A6A5A5">
+                    <tspan x="517.655" y="167">Somewhat important</tspan>
+                </text>
+                <text id="Slightly-important" font-family="ProximaNova-Regular, Proxima Nova" font-size="10" font-weight="normal" fill="#A6A5A5">
+                    <tspan x="532.48" y="228">Slightly important</tspan>
+                </text>
+                <text id="Very-important" font-family="ProximaNova-Regular, Proxima Nova" font-size="10" font-weight="normal" fill="#A6A5A5">
+                    <tspan x="543.63" y="288">Very important</tspan>
+                </text>
+                <text id="Issues-found" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#060606">
+                    <tspan x="382.234" y="189">Issues found</tspan>
+                </text>
+                <text id="Orders-placed" font-family="ProximaNova-Regular, Proxima Nova" font-size="14" font-weight="normal" fill="#060606">
+                    <tspan x="380.285" y="252">Orders placed</tspan>
+                </text>
+                <g id="Group-3" transform="translate(411.000000, 432.000000)">
+                    <g id="Stroke-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <path d="M135,26 C135,40.3601835 123.358737,52 109.000932,52 C94.6412627,52 83,40.3601835 83,26 C83,11.6398165 94.6412627,0 109.000932,0 C123.358737,0 135,11.6398165 135,26" id="Fill-6" fill="#888888"></path>
+                    <path d="M135,26 C135,40.3601835 123.358737,52 109.000932,52 C94.6412627,52 83,40.3601835 83,26 C83,11.6398165 94.6412627,0 109.000932,0 C123.358737,0 135,11.6398165 135,26 Z" id="Stroke-7" fill="#0064FF"></path>
+                    <text id="Review-the-findings" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#060606">
+                        <tspan x="47.036" y="79">Review the findings</tspan>
+                    </text>
+                    <text id="3" font-family="Lato-Bold, Lato" font-size="22" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="102" y="33">3</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(675.000000, 408.000000)">
+                    <g id="Stroke-3-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <path d="M135,26 C135,40.3601835 123.358737,52 109.000932,52 C94.6412627,52 83,40.3601835 83,26 C83,11.6398165 94.6412627,0 109.000932,0 C123.358737,0 135,11.6398165 135,26" id="Fill-6-Copy" fill="#888888"></path>
+                    <path d="M135,26 C135,40.3601835 123.358737,52 109.000932,52 C94.6412627,52 83,40.3601835 83,26 C83,11.6398165 94.6412627,0 109.000932,0 C123.358737,0 135,11.6398165 135,26 Z" id="Stroke-7-Copy" fill="#0064FF"></path>
+                    <text id="Make-changes-to-impr" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" fill="#060606">
+                        <tspan x="19.82" y="79">Make changes to impress</tspan>
+                    </text>
+                </g>
+                <text id="Makerspad" font-family="ProximaNova-Medium, Proxima Nova" font-size="24" font-weight="400" fill="#FFFFFF">
+                    <tspan x="427" y="68">Makerspad</tspan>
+                </text>
+                <text id="Integrate-with-your" font-family="ProximaNova-Regular, Proxima Nova" font-size="16" font-weight="normal" line-spacing="22" fill="#060606">
+                    <tspan x="46.908" y="76">Integrate with your </tspan>
+                    <tspan x="74.188" y="98">application</tspan>
+                </text>
+                <path d="M386.5,148.5 L608.5,148.5" id="Line" stroke="#D6D6D6" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M384.5,148.5 L485.5,148.5" id="Line" stroke="#0064FF" stroke-width="4" stroke-linecap="round"></path>
+                <circle id="Oval" fill="#0064FF" cx="487.5" cy="148.5" r="6.5"></circle>
+                <path d="M386.5,211.5 L608.5,211.5" id="Line" stroke="#D6D6D6" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M384.5,211.5 L418.5,211.5" id="Line" stroke="#0064FF" stroke-width="4" stroke-linecap="round"></path>
+                <circle id="Oval" fill="#0064FF" cx="417.5" cy="211.5" r="6.5"></circle>
+                <path d="M386.5,268.5 L608.5,268.5" id="Line" stroke="#D6D6D6" stroke-width="4" stroke-linecap="round"></path>
+                <circle id="Oval" fill="#0064FF" cx="547.5" cy="268.5" r="6.5"></circle>
+                <path d="M384.5,268.5 L545.5,268.5" id="Line" stroke="#0064FF" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M137,25.9990684 C137,40.3587373 125.358737,52 110.999068,52 C96.6412627,52 85,40.3587373 85,25.9990684 C85,11.6412627 96.6412627,0 110.999068,0 C125.358737,0 137,11.6412627 137,25.9990684" id="Oval-2" fill="#0064FF"></path>
+                <path d="M641.5,190.5 L683.5,190.5" id="Line-2" stroke="#0064FF" stroke-linecap="square"></path>
+                <path d="M220.5,298.5 L325.5,298.5" id="Line-2-Copy" stroke="#0064FF" stroke-linecap="square"></path>
+                <text id="1" font-family="Lato-Bold, Lato" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="104" y="34">1</tspan>
+                </text>
+                <text id="4" font-family="Lato-Bold, Lato" font-size="22" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="776" y="442">4</tspan>
+                </text>
+                <g id="Group-5" transform="translate(801.000000, 76.000000)" stroke-width="6">
+                    <path d="M52,26 C52,40.3595982 40.3593607,52 26,52 C11.6406393,52 0,40.3595982 0,26 C0,11.6406393 11.6406393,0 26,0 C40.3593607,0 52,11.6406393 52,26 Z" id="Stroke-1" stroke="#AFE1F7"></path>
+                    <path d="M43.63821,7 C48.7800365,11.7392735 52,18.5242169 52,26.0589629 C52,40.3859963 40.3593607,52 26,52 C11.6406393,52 0,40.3859963 0,26.0589629" id="Stroke-3" stroke="#0064FF" stroke-linecap="round"></path>
+                </g>
+                <g id="PO-08" transform="translate(916.000000, 377.000000)">
+                    <path d="M66,225.108738 C44.9603851,230.504819 44.1366865,252 44.1366865,252 L39.0768239,222.88018 C38.8291354,221.448823 39.1863701,219.978113 40.0618042,218.825086 C40.9372383,217.672058 42.2508174,216.942151 43.6836523,216.81256 L63.6877604,215 L66,225.108738 Z" id="Path" fill="#FFC7C3" fill-rule="nonzero"></path>
+                    <path d="M14.6774156,169.77849 C6.84251767,174.074416 -5.87294261,183.783568 3.05505947,198.374183 C6.53818255,203.928543 12.3534174,207.555035 18.8253027,208.208807 L42.9267723,210.873596 C43.4585527,210.933344 43.9903331,210.975168 44.5280222,210.993093 L101.788954,212.988697 C102.883909,213.023592 103.979922,212.977663 105.068267,212.851275 L126.61719,210.270134 C136.068016,209.139477 143.667957,201.876895 145.318134,192.39932 L145.318134,192.39932 C147.634334,179.021603 157.525449,166.946405 144.09504,167 L24.7398825,167.239173 C21.2296736,167.231154 17.7723009,168.10364 14.6774156,169.77849 Z" id="Path" fill="#01267D" fill-rule="nonzero"></path>
+                    <path d="M96.7575276,65.8720358 C96.7575276,65.8720358 66.724988,49.9143589 45.7562963,111.180018 L42,167.81795 L160.442202,169 C160.442202,169 184.127077,71.6640814 147.639889,66.6462786 C111.152701,61.6284758 96.7575276,65.8720358 96.7575276,65.8720358 Z" id="Path" fill="#00B1F6" fill-rule="nonzero"></path>
+                    <path d="M117.861988,54 C117.861988,54 153.936499,30.9467451 106.531044,6.87020792 C106.531044,6.87020792 79.5461269,-17.9120411 89.0142075,26.6595454 C89.0142075,26.6595454 110.783105,23.648508 116.058263,46.9605239 C116.058263,46.9605239 123.403269,45.9313608 117.861988,54 Z" id="Path" fill="#073797" fill-rule="nonzero"></path>
+                    <path d="M89.6471789,26.3600994 C87.607222,27.3264585 86.1890636,29.2376133 85.8670688,31.4542949 C85.4364234,34.202791 84.2820543,37.9227385 81.1538936,39.314757 C75.9442799,41.6367624 80.1131671,62.0194679 94.4440907,59.1821195 C96.950208,58.5897712 96.6152615,59.5019876 95.8556508,60.3668161 C94.8677426,61.5674701 94.3439898,63.0773697 94.3782977,64.6258005 C94.4261472,69.9865528 95.4010806,81.146395 102.518693,83.4032421 C115.976363,87.6799969 120.755332,67.7297057 119.612925,62.9731487 C119.469376,62.3808004 119.672737,61.7351407 119.577038,61.1190985 L118.608085,55.0712222 C118.329202,53.3426125 118.731772,51.5739693 119.732549,50.1310372 C121.526905,47.589863 123.674151,43.4967361 119.953853,42.7622242 C117.47166,42.2705751 115.581605,40.2743613 114.780126,37.8990445 C112.327839,30.696089 105.718628,18.9557454 89.6471789,26.3600994 Z" id="Path" fill="#FCC6E6" fill-rule="nonzero"></path>
+                    <path d="M120.191314,63 C120.191314,63 121.267728,78.1309524 105,84.0535714 L122.621925,98 C122.621925,98 129.340826,66.4880952 120.191314,63 Z" id="Path" fill="#FFFEFA" fill-rule="nonzero"></path>
+                    <path d="M94.8823974,63 C94.3240289,71.2236455 98.1551081,79.1419378 105,83.911636 C105,83.911636 94.3553128,82.3410324 87.9697121,97 C87.9636536,96.976203 83.1895993,74.4999125 94.8823974,63 Z" id="Path" fill="#FFFEFA" fill-rule="nonzero"></path>
+                    <path d="M140.9018,114 L165,114.344608 C165,114.344608 155.022664,143.273854 130.572323,153.380375 C106.121982,163.486895 110.265511,149.221313 110.265511,149.221313 C110.265511,149.221313 135.050386,143.969012 140.9018,114 Z" id="Path" fill="#F7C3C6" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#80BAE7" fill-rule="nonzero" points="109.022956 164 150 164 150 170 108 170"></polygon>
+                    <path d="M149.924425,167 C149.924425,167 176.696495,171.388235 178.872942,190.176471 C180.129265,200.982353 171.913029,210.635294 161.131064,212.235294 L61.9228232,227 L61.9228232,227 L60,214.7 L60,214.7 L149.924425,167 Z" id="Path" fill="#01267D" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFEFA" fill-rule="nonzero" points="109 164.311727 96.250287 110.089065 94 110 108.001148 170"></polygon>
+                    <circle id="Oval" fill="#FFFEFA" fill-rule="nonzero" cx="104.5" cy="88.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFEFA" fill-rule="nonzero" cx="104.5" cy="93.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFEFA" fill-rule="nonzero" cx="104.5" cy="98.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#FFFEFA" fill-rule="nonzero" cx="104.5" cy="102.5" r="1.5"></circle>
+                    <path d="M140,111 C140,111 136.779704,101.140164 137.011988,87" id="Path" stroke="#073797" stroke-width="0.25" stroke-linecap="round"></path>
+                    <path d="M79,93 C79,93 71.8,108.26284 67,113" id="Path" stroke="#073797" stroke-width="0.25" stroke-linecap="round"></path>
+                    <polygon id="Path" fill="#80BAE7" fill-rule="nonzero" points="7 110 93.4983811 110 108 170 23.1842586 169.833746"></polygon>
+                    <g id="nqd26Q.tif" transform="translate(51.000000, 132.000000)" fill="#FEFEFE" fill-rule="nonzero">
+                        <path d="M3.97090909,17.52 L3.90590909,17.52 C2.95454545,17.19 2.42272727,16.284 1.89681818,15.378 C1.10545455,14.0148609 0.59671812,12.501923 0.401818182,10.932 C0.1826912,9.62033367 0.288284695,8.27392288 0.709090909,7.014 C1.3,5.406 2.77727273,4.068 4.25454545,4.194 C4.7803877,4.25886913 5.29175283,4.41301622 5.76727273,4.65 C6.50063969,4.97032173 7.33761013,4.93500341 8.04227273,4.554 C9.59636364,3.822 10.9968182,4.2 12.1431818,5.622 C12.4209091,5.976 12.4268182,6.108 12.0840909,6.372 C10.3113636,7.764 10.3881818,11.358 12.48,12.636 C12.6809091,12.762 12.8640909,12.9 12.7340909,13.236 C12.2517503,14.6921728 11.4610964,16.0233759 10.4177273,17.136 C10.2087592,17.3570178 9.92169044,17.4844077 9.62,17.49 L8.92272727,17.49 C8.65309612,17.488585 8.38842958,17.4162324 8.15454545,17.28 C7.37902825,16.8287569 6.4308673,16.8084171 5.63727273,17.226 C5.37415492,17.3766539 5.08165541,17.4667779 4.78045455,17.49 C4.51038567,17.4675255 4.238646,17.4775956 3.97090909,17.52 Z" id="Path"></path>
+                        <path d="M9.295,1.146 C9.06454545,2.808 7.97136364,4.146 6.70681818,4.386 C6.40545455,4.44 6.34045455,4.314 6.34045455,3.984 C6.35141894,2.41295904 7.28008893,0.998523209 8.70409091,0.384 L8.97590909,0.288 C9.33045455,0.234 9.33045455,0.234 9.33045455,0.648 C9.34286874,0.814867031 9.33092142,0.982680865 9.295,1.146 L9.295,1.146 Z" id="Path"></path>
+                    </g>
+                </g>
+                <path d="M362,468 C378.212329,468.603385 386.318494,477.989953 386.318494,496.159703 C386.318494,514.329453 394.545663,522.917081 411,521.922589" id="Path-2" stroke="#0064FF"></path>
+                <path d="M630,469 C644.888874,469.603385 652.333311,478.989953 652.333311,497.159703 C652.333311,515.329453 659.888874,523.917081 675,522.922589" id="Path-2-Copy" stroke="#0064FF" transform="translate(652.500000, 496.000000) scale(1, -1) translate(-652.500000, -496.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
