@@ -45,9 +45,6 @@
 
 <button id="topBtn"><i class="fas fa-arrow-up"></i></button>
 
-  <router-outlet >
-     
-  </router-outlet>
   <a  class="btn btn-info btn-lg"  *ngIf="isShow" class="arrow"  (click)="gotoTop()">
     <span class="glyphicon glyphicon-arrow-up"></span> 
   </a>
@@ -70,3 +67,6 @@ $("#topBtn").click(function(){
 });
 
   </script>
+  <div>
+    <router-outlet></router-outlet>
+    </div>
