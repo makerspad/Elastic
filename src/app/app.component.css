@@ -116,5 +116,18 @@ button ::before{
   }
 
 
+.imag{
+  width: 100%;  
+    position: relative;
+}
 
-  
+  @media only screen 
+  and (max-width : 375px) 
+  and (max-height : 667px) 
+  and (-webkit-device-pixel-ratio : 2) {
+    .imag {
+      width: 112%;
+      position: relative;
+      margin-top: -100%;
+}
+}

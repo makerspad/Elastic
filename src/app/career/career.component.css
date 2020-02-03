@@ -1,0 +1,10 @@
+.tt-copy {
+    font-size: 18px;
+    line-height: 20px;
+    color: #fff;
+    background: #51658d;
+    padding: 30px 0;
+    font-family: 'proxima-nova';
+    width: 116%;
+    position: relative;
+}

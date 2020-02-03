@@ -293,13 +293,13 @@ text-align: initial;
 }
 }
 
-.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+/* .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   width: 100%;
   padding-right: 0px;
   padding-left: 0px;
   margin-right: auto;
   margin-left: auto;
-}
+} */
 #middle{
   box-shadow: 0px 0px 0px grey, -2px 4px 17px grey, 0px 0px 0px grey;
   border-style: groove;
@@ -308,11 +308,10 @@ text-align: initial;
 }
 
 #banner{
-
-  width: 46%;
+  width: 56%;
   position: relative;
-  margin-top: -43%;
-  margin-left: 55%;
+  margin-top: -59%;
+  margin-left: 48%;
   z-index: 1;
   height: 7%;
 }
@@ -462,4 +461,61 @@ text-align: initial;
 .active {
   background-color: white;
 }
+.background{
+  background-image: url('/assets/img/circle_ blur2-15.svg');
+}
+.dots{
+  width: 14%;
+  margin-left: -18%;
+  margin-top: -24%;
+}
 
+@media only screen and (max-width: 767px) {
+.dots{
+  width: 14%;
+  margin-left: -14%;
+  margin-top: -24%;
+}
+}
+
+#container {
+  width: 42%;
+  margin-top: -256px;
+  z-index: 1100;
+  position: absolute;
+}
+
+.vector{
+  margin-top: 4%; 
+  margin-left: -11%;
+}
+
+@media only screen and (max-width: 767px) {
+  .vector{
+    margin-top: 4%;
+    margin-left: 5%;
+  }
+}
+.logos{
+  width: 100%;
+    position: inherit;
+}
+@media only screen and (max-width: 767px) {
+.logos {
+  width: 112%;
+  position: relative;
+  margin-top: -47%;
+}
+}
+
+#img1{
+  width: 20%;
+}
+@media only screen and (max-width: 767px) {
+
+#img1{
+  width: 20%;
+  margin-top: 112%;
+
+}
+}
