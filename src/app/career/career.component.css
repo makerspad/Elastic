@@ -1,4 +1,4 @@
-.tt-copy {
+/* .tt-copy {
     font-size: 18px;
     line-height: 20px;
     color: #fff;
@@ -7,4 +7,55 @@
     font-family: 'proxima-nova';
     width: 116%;
     position: relative;
+} */
+.tt-copy-right {
+    text-align: right;
+    font-size: 133%;
+    }
+
+.text-black{
+    width: 100%;
+    height: 66px;
+    font-family: proxima-nova;
+    font-size: 48px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    font-weight: 300;
+    color: #001a35;
 }
+hr.new4 {
+    border: 1px solid white;
+    width: 100%;
+  }
+  
+  .C-2020-makerspad-- {
+    width: 315px;
+    height: 22px;
+    font-family: Proxima-nova;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    white-space: nowrap;
+
+    color: #ffffff;
+  }
+  .Handmade-by-makerspa {
+    width: 218px;
+    height: 22px;
+    font-family: Proxima-nova;
+    font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    white-space: nowrap;
+
+  }

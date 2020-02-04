@@ -131,3 +131,8 @@ button ::before{
       margin-top: -100%;
 }
 }
+.navbar-nav > a {
+  padding-left:30px;
+  padding-right:30px;
+}
+

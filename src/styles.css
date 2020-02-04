@@ -240,6 +240,19 @@
 
 }
 
+.perfo {
+  width: 86.65%;
+}
+@media only screen and (max-width: 767px) {
+
+.perfo {
+  width: 86.65%;
+  margin-bottom: 21%;
+
+}
+}
+
+
 @media only screen and (max-width: 767px) {
   .Developer-and-langua4 {
     width: 102% !important;
@@ -277,15 +290,15 @@
     width: 100;
     height: auto;
     font-family: proxima-nova;
-    font-size: 54px;
+    font-size: 31px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
     color: #666666;
     margin-bottom: -50%;
-    margin-top: 0;
-    margin-left: 11%;
+    margin-top: 117px;
+    margin-left: 4%;
 }
 }
 
@@ -344,18 +357,18 @@
 
 @media only screen and (max-width: 767px) {
   .Developer-and-langua3 {
-    width: 100%;
-    height: 132px;
+    width: 100;
+    height: auto;
     font-family: proxima-nova;
-    font-size: 54px;
+    font-size: 31px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
     color: #666666;
     margin-bottom: -50%;
-    margin-top: 0;
-    margin-left: 4%;
+    margin-top: 117px;
+    margin-left: 6%;
 }
 }
 
@@ -377,7 +390,7 @@
 @media only screen and (max-width: 767px) {
 
   .Quickly-and-easily-in2 {
-    width: 88%;
+    width: 100%;
     height: 40px;
     font-family: proxima-nova;
     font-size: 16px;
@@ -388,7 +401,7 @@
     letter-spacing: normal;
     color: #666666;
     margin-left: 5%;
-    margin-top: 52%;
+    margin-top: 47%;
     position: absolute;
 }
 }
@@ -415,15 +428,14 @@
   width: 141%;
   height: 132px;
   font-family: proxima-nova;
-  font-size: 54px;
+  font-size: 31px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
   color: #666666;
-  margin-bottom: -50%;
-  margin-top: 0;
-  margin-left: 56%;
+  margin-bottom: -74%;
+  margin-top: 117px;
 }
 @media only screen and (max-width: 767px) {
 }
@@ -580,7 +592,7 @@
     width: 100%;
     height: auto;
     font-family: proxima-nova;
-    font-size: 22px;
+    font-size: 25px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -590,8 +602,8 @@
     color: #ffffff;
     position: absolute;
     z-index: 1;
-    margin-top: -30%;
-    margin-left: -88px;
+    margin-top: -39%;
+    margin-left: -44px;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -599,7 +611,7 @@
     width: 100%;
     height: auto;
     font-family: proxima-nova;
-    font-size: 21px;
+    font-size: 25px;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -609,9 +621,8 @@
     color: #ffffff;
     position: absolute;
     z-index: 1;
-    margin-top: -83px;
-
-    margin-left: -18%;
+    margin-top: -112px;
+    margin-left: -4%;
 }
 }
 @media only screen and (max-width: 767px) {
@@ -619,7 +630,7 @@
     width: 100%;
     /* height: 29px; */
     font-family: proxima-nova;
-    font-size: 9px;
+    font-size: 12px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -629,8 +640,8 @@
     color: #ffffff;
     z-index: 1;
     position: absolute;
-    margin-top: -19%;
-    margin-left: -13%;
+    margin-top: -28%;
+    margin-left: 5%;
 }
 }
 @media only screen and (max-width: 767px) {
@@ -638,7 +649,7 @@
     width: 56%;
     height: auto;
     font-family: proxima-nova;
-    font-size: 8px;
+    font-size: 10px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -647,8 +658,8 @@
     color: #ffffff;
     z-index: 1;
     position: absolute;
-    margin-top: -14%;
-    margin-left: -12.5%;
+    margin-top: -21%;
+    margin-left: -4%;
     text-align: initial;
 }
 }
@@ -765,19 +776,17 @@
 
   @media only screen and (max-width: 767px) {
   .Developer-and-langua1 {
-    margin-top: 21%;
     width: 100%;
-    /* height: auto; */
     font-family: proxima-nova;
-    font-size: 34px;
+    font-size: 31px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
-    /* line-height: 120%; */
     letter-spacing: normal;
     color: #666666;
-    margin-bottom: 1%;
+    margin-bottom: -7%;
     margin-left: 41px;
+    margin-top: 39%;
 }
   }
   
@@ -817,7 +826,7 @@
   .Behavioral-Analytics {
     width: 100%;
     font-family: proxima-nova;
-    font-size: 33px;
+    font-size: 31px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -826,6 +835,7 @@
     text-align: center;
     color: #666666;
     margin-top: 0px;
+    margin-bottom: -5%;
 
 }
   }
@@ -852,6 +862,7 @@
     letter-spacing: normal;
     color: #001a35;
     text-align: center;
+    margin-bottom: 3%;
   }
 
   .Makerspad-engineerin {
@@ -870,6 +881,7 @@
 }
 
 
+
 @media only screen and (max-width: 767px) {
 
 .How-it-all-works {
@@ -884,20 +896,24 @@
     color: #001a35;
 }
 }
+@media only screen and (max-width: 767px) {
 
+.slidersimg{
+display: contents;
 
-
+}
+}
 
 @media only screen and (max-width: 767px) {
 
 .Ever-wonder-How-are {
   width: 717px;
   font-family: proxima-nova;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
-  line-height: 1.5;
+  line-height: 1;
   letter-spacing: normal;
   text-align: center;
   color: #666666;
@@ -936,19 +952,19 @@
 
 @media only screen and (max-width: 767px) {
 .Quickly-and-easily-in {
-  width: 96%;
-    height: auto;
-    font-family: proxima-nova;
-    font-size: 18px;
-    font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #666666;
-    margin-left: 7%;
-    margin-top: -42px;
-    position: absolute;
+  width: 73%;
+  height: auto;
+  font-family: proxima-nova;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #666666;
+  margin-left: 12%;
+  margin-top: -24px;
+  position: absolute;
 }
 
 }
@@ -1006,22 +1022,24 @@ margin-left: 76px!important;
 
 .Ever-wonder-How-are2 {
   width: 717px;
-    height: 60px;
-    font-family: proxima-nova;
-    font-size: 18px;
-        font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 2;
-    letter-spacing: normal;
-    text-align: center;
-    color: #666666;
-    font-weight: 300;
-    margin-left: 0%;
-    position: relative;
+  height: 60px;
+  font-family: proxima-nova;
+  font-size: 15px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #666666;
+  font-weight: 300;
+  margin-left: 0%;
+  position: relative;
+
+}
 }
   
-}
+
 
 @import url(//fonts.googleapis.com/css?family=Lato:300:400);
 body {
@@ -1036,9 +1054,10 @@ background-color: #2649b8;
 }
 
 .logo{
-  width: 5%;
-  margin-left: -65%;
+  width: 4%;
+  margin-left: -52%;
   margin-bottom: 1%;
+  margin-top: 28px;
 }
 .flex {
   display: flex;
@@ -1099,13 +1118,23 @@ background-color: #2649b8;
   }
 }
 
+@media only screen and (max-width: 767px) {
 
-@media only screen and (max-width: 500px) {
-.header{
+.header a {
+  float: left;
+  color: #fff;
+  text-align: center;
+  padding: 25px !important;
+  text-decoration: none;
+  font-size: 16px !important;
+  line-height: 25px;
+  border-radius: 4px;
+  margin-top: -8% !important;
+  margin-left: -4% !important;
 
+}
+}
 
-  display: contents;
-}}
 
 
 
@@ -1128,11 +1157,22 @@ background-color: #2649b8;
   margin-bottom: -2%;
 }
 
+@media only screen and (max-width: 500px) {
+
+
+.header {
+  overflow: hidden;
+  background-color: #0076CB;
+  width: 106%;
+  margin-bottom: 105px;
+
+}}
+
 .header a {
   float: left;
   color: #fff;
   text-align: center;
-  padding: 12px;
+  padding: 33px;
   text-decoration: none;
   font-size: 18px; 
   line-height: 25px;
@@ -1144,10 +1184,19 @@ background-color: #2649b8;
   font-weight: bold;
 }
 
+
 .header a:hover {
   /* background-color: #ddd; */
   color: black;
 }
+.logo:hover {
+  transform: scale(1.2); 
+}
+
+
+
+
+
 
 .header a.active {
   color: white;
@@ -1157,17 +1206,33 @@ background-color: #2649b8;
   float: right;
 }
 
-@media screen and (max-width: 500px) {
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;
+  color: #0076CB;}
+  .sidenav a {font-size: 18px;}
+  ;
+}
+/* @media screen and (max-width: 500px) {
   .header a {
     float: none;
     display: block;
     text-align: left;
+    background-color: #001a35;
   }
   
+ } */
+ /* @media screen and (max-width: 500px) {
   .header-right {
     float: none;
+    display: block;
+    text-align: left;
+    background-color: #001a35;
   }
-}
+  
+ } */
+
+
 
 @media screen and (max-width: 500px) {
 
@@ -1190,12 +1255,14 @@ margin-left: -4%;
   font-size: 15px;
   line-height: 20px;
   color: #fff;
-  background: #51658d;
+ 
   padding: 30px 0;
   font-family: 'Open Sans', sans-serif;
   margin-left: -16%;
   width: 133%;
   margin-top: 5%;;
+  height: 264px;
+  background-color: #232a64;
 }
 
 
@@ -1316,8 +1383,7 @@ margin-left: -4%;
 @media screen and (max-width: 500px){
 .header {
  
-  background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
-  color: white;
+  color: black;
 }
 }
 
@@ -1342,3 +1408,77 @@ margin-left: -4%;
     transition: opacity .6s ease;
     border: solid 1px #0064ff !important;
 }
+
+
+hr.new4 {
+  border: 1px solid white;
+  width: 100%;
+}
+
+.C-2020-makerspad-- {
+  width: 315px;
+  height: 22px;
+  font-family: Proxima-nova;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+.Handmade-by-makerspa {
+  width: 218px;
+  height: 22px;
+  font-family: Proxima-nova;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+
+.C-2020-makerspad-- {
+  width: 315px;
+  height: 22px;
+  font-family: Proxima-nova;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  white-space: nowrap;
+}
+.Handmade-by-makerspa {
+  width: 218px;
+  height: 22px;
+  font-family: Proxima-nova;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  white-space: nowrap;
+
+}
+
+@media screen and (max-width: 500px){
+
+#banner {
+  width: 56%;
+  position: relative;
+  margin-top: -59%;
+  margin-left: 48%;
+  z-index: 1;
+  height: 7%;
+  display: contents;
+}
+}
+

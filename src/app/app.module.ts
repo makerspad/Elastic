@@ -8,6 +8,10 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { CareerComponent } from './career/career.component';
+import { ContactUSComponent } from './contact-us/contact-us.component';
+import { Designation1Component } from './designation1/designation1.component';
+import { Designation2Component } from './designation2/designation2.component';
+import { Designation3Component } from './designation3/designation3.component';
 
 
 
@@ -16,6 +20,10 @@ import { CareerComponent } from './career/career.component';
     AppComponent,
     DashboardComponent,
     CareerComponent,
+    ContactUSComponent,
+    Designation1Component,
+    Designation2Component,
+    Designation3Component,
     
    
   ],
