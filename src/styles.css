@@ -1246,7 +1246,7 @@ line-height: 20px;
 color: #fff;
 background: #51658d;
 padding: 30px 0;
-font-family: 'Open Sans', sans-serif;
+font-family: Proxima-Nova;
 margin-left: -4%;
     width: 117%;
 }
@@ -1257,12 +1257,11 @@ margin-left: -4%;
   font-size: 15px;
   line-height: 20px;
   color: #fff;
- 
-  padding: 30px 0;
-  font-family: 'Open Sans', sans-serif;
+   padding: 30px 0;
+  font-family: Proxima-Nova;
   margin-left: -16%;
   width: 133%;
-  margin-top: 5%;;
+  margin-top: 5%;
   height: 264px;
   background-color: #232a64;
 }
