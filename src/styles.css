@@ -570,6 +570,7 @@
     text-align: center;
     color: #666666;
     font-weight: 300;
+    
    
   }
   
@@ -818,7 +819,8 @@
     letter-spacing: normal;
     text-align: center;
     color: #666666;
-    
+    position: absolute;
+    margin-left: -22%;
   }
 
   @media only screen and (max-width: 767px) {
