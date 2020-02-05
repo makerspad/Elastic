@@ -527,3 +527,10 @@ hr.new4 {
   border: 1px solid white;
   width: 100%;
 }
+
+@media only screen and (max-width: 767px) {
+.media{
+  height: 58px;
+  margin-left: 55px;
+}
+}
