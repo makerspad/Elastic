@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { Designation1Component } from './designation1.component';
+import { FullStackDeveloperComponent } from './full-stack-developer.component';
 
-describe('Designation1Component', () => {
-  let component: Designation1Component;
-  let fixture: ComponentFixture<Designation1Component>;
+describe('FullStackDeveloperComponent', () => {
+  let component: FullStackDeveloperComponent;
+  let fixture: ComponentFixture<FullStackDeveloperComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ Designation1Component ]
+      declarations: [ FullStackDeveloperComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(Designation1Component);
+    fixture = TestBed.createComponent(FullStackDeveloperComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

@@ -42,8 +42,8 @@
     /* text-align: center; */
     font-weight: 300;
     color: #001a35;
-    text-align: center;
-    margin-bottom: 12%;
+    text-align: justify;
+    margin-bottom: 17%;
 }
 
 
@@ -91,6 +91,6 @@ input[type=text], select, textarea {
   @media screen and (max-width: 500px) {
 
     .form{
-      margin-top: 95%;
+      
     }
   }

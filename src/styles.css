@@ -10,7 +10,7 @@
     
     a {
         color: #343a40;
-        text-decoration: none;
+        text-decoration: none !important;
         background-color: transparent;
     }
      .float-center{
@@ -604,8 +604,8 @@
     color: #ffffff;
     position: absolute;
     z-index: 1;
-    margin-top: -39%;
-    margin-left: -44px;
+    margin-top: -32%;
+    margin-left: -68px;
   }
 }
 @media only screen and (max-width: 767px) {
@@ -623,45 +623,45 @@
     color: #ffffff;
     position: absolute;
     z-index: 1;
-    margin-top: -112px;
-    margin-left: -4%;
+    margin-top: -91px;
+    margin-left: -10%;
 }
 }
 @media only screen and (max-width: 767px) {
 .INSIGHTS-TO-IMPROVE {
-    width: 100%;
-    /* height: 29px; */
+  width: 100%;
+  /* height: 29px; */
+  font-family: proxima-nova;
+  font-size: 12px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  z-index: 1;
+  position: absolute;
+  margin-top: -22%;
+  margin-left: 6%;
+}
+}
+@media only screen and (max-width: 767px) {
+  .Empowering-product-m {
+    width: 65%;
+    height: auto;
     font-family: proxima-nova;
     font-size: 12px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    text-align: center;
-    color: #ffffff;
-    z-index: 1;
-    position: absolute;
-    margin-top: -22%;
-    margin-left: 5%;
-}
-}
-@media only screen and (max-width: 767px) {
-  .Empowering-product-m {
-    width: 56%;
-    height: auto;
-    font-family: proxima-nova;
-    font-size: 10px;
-    font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
+    line-height: 1.5;
     letter-spacing: normal;
     color: #ffffff;
     z-index: 1;
     position: absolute;
-    margin-top: -17%;
-    margin-left: -4%;
+    margin-top: -13%;
+    margin-left: -5%;
     text-align: initial;
 }
 }
@@ -831,7 +831,7 @@
   .Behavioral-Analytics {
     width: 100%;
     font-family: proxima-nova;
-    font-size: 31px;
+    font-size: 24px;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -840,7 +840,7 @@
     text-align: center;
     color: #666666;
     margin-top: 0px;
-    margin-bottom: -5%;
+    margin-bottom: -8%;
 
 }
   }
@@ -1078,12 +1078,7 @@ background-color: #2649b8;
  color: white;
 }
 
-.logo{
-  width: 4%;
-  margin-left: -52%;
-  margin-bottom: 1%;
-  margin-top: 28px;
-}
+
 .flex {
   display: flex;
   justify-content: center;
@@ -1150,7 +1145,7 @@ background-color: #2649b8;
   color: #fff;
   text-align: center;
   padding: 25px !important;
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 16px !important;
   line-height: 25px;
   border-radius: 4px;
@@ -1198,33 +1193,42 @@ background-color: #2649b8;
   color: #fff;
   text-align: center;
   padding: 33px;
-  text-decoration: none;
+  font-family: 'Taviraj', serif;
+  margin-top: -3%;
+  text-decoration: none !important;
   font-size: 18px; 
   line-height: 25px;
   border-radius: 4px;
 }
 
-.header a.logo {
-  font-size: 25px;
-  font-weight: bold;
-}
+
 
 
 .header a:hover {
-  /* background-color: #ddd; */
-  color: black;
-}
-.logo:hover {
-  transform: scale(1.2); 
+  transition: transform .2s; /* Animation */
+  color: #fff;
 }
 
 
+.logo{
+ font-family: 'Taviraj', serif;
+    font-size: 30px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 1%;
+    font-weight: 700;
+}
 
+@media only screen and (max-width: 767px) {
 
-
+.logo{
+display: none;
+}
+}
 
 .header a.active {
-  color: white;
+border: 1px solid;
+color: aqua;
 }
 
 .header-right {
@@ -1285,7 +1289,6 @@ margin-left: -4%;
   margin-left: -16%;
   width: 126%;
   margin-top: 5%;
-  height: 264px;
   background-color: #232a64;
 }
 
@@ -1294,6 +1297,7 @@ margin-left: -4%;
   width: 175%;
   margin-top: 17%;
   margin-left: -12%;
+  
 
 }
 
@@ -1302,6 +1306,7 @@ margin-left: -4%;
 .tunnel{
   width: 103%;
   margin-left: -3%;
+  display: none;
 }
 }
 
@@ -1361,8 +1366,11 @@ margin-left: -4%;
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: #001a35;
-  margin-left: 16%;
+  color: #666666;
+    margin-left: 16%;
+    position: relative;
+    margin-bottom: -12%;
+    margin-top: 29%;
 }
 }
 
@@ -1418,8 +1426,8 @@ margin-left: -4%;
     box-sizing: content-box;
     -webkit-box-flex: 0;
     flex: 0 1 auto;
-    width: 20px !important;
-    height: 20px !important;
+    width: 15px !important;
+    height: 15px !important;
     margin-right: 3px;
     margin-left: 10px;
     text-indent: -999px;
@@ -1429,10 +1437,35 @@ margin-left: -4%;
     border-top: 1px solid transparent !important;
     border-bottom: 1px solid transparent !important;
     opacity: .5;
-    -webkit-transition: opacity .6s ease;
     transition: opacity .6s ease;
     border: solid 1px #0064ff !important;
 }
+
+
+
+@media screen and (max-width: 500px){
+
+.carousel-indicators li {
+  box-sizing: content-box;
+  -webkit-box-flex: 0;
+  flex: 0 1 auto;
+  width: 14px !important;
+  height: 14px !important;
+  margin-right: 3px;
+  margin-left: 10px;
+  text-indent: -999px;
+  cursor: pointer;
+  background-color: #2649b8 !important;
+  background-clip: padding-box;
+  border-top: 1px solid  !important;
+  border-bottom: 1px solid  !important;
+  opacity: .5;
+  -webkit-transition: opacity .6s ease;
+  transition: opacity .6s ease;
+  border: solid 1px #0064ff !important;
+}
+}
+
 
 
 hr.new4 {
@@ -1513,3 +1546,41 @@ hr.new4 {
   }
   }
 
+  @media only screen and (max-width: 767px) {
+
+  #vector{
+
+margin-left: 15% !important;
+margin-bottom: 5%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+
+.summary {
+  width: 100%;
+  height: 66px;
+  font-family: proxima-nova !important;
+  font-size: 18px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-weight: 300;
+  color: #001a35;
+  margin-bottom: 45%;
+}
+}
+
+.beach{
+  height: 100%;
+  width: 104%;
+}
+
+@media only screen and (max-width: 767px) {
+
+.beach{
+  display: none;
+}
+}
