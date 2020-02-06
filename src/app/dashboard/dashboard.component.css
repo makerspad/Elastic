@@ -510,12 +510,13 @@ text-align: initial;
 
 #img1{
   width: 20%;
+  margin-top: 28px;
 }
 @media only screen and (max-width: 767px) {
 
 #img1{
   width: 20%;
-  margin-top: 112%;
+  margin-top: 126%;
 
 }
 }

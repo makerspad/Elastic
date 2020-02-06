@@ -258,7 +258,7 @@
     width: 102% !important;
     height: 132px;
     font-family: proxima-nova;
-    font-size: 54px;
+    font-size: 34px!important;
     font-weight: 300;
     font-stretch: normal;
     font-style: normal;
@@ -367,7 +367,7 @@
     letter-spacing: normal;
     color: #666666;
     margin-bottom: -50%;
-    margin-top: 117px;
+    margin-top: 64px;
     margin-left: 6%;
 }
 }
@@ -428,14 +428,15 @@
   width: 141%;
   height: 132px;
   font-family: proxima-nova;
-  font-size: 31px;
+  font-size: 54px;
   font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
   color: #666666;
   margin-bottom: -74%;
-  margin-top: 117px;
+  margin-top: 25px;
+  margin-left: 127px;
 }
 @media only screen and (max-width: 767px) {
 }
@@ -470,7 +471,7 @@
     letter-spacing: normal;
     color: #666666;
     margin-left: 8%;
-    margin-top: 52%;
+    margin-top: 43%;
     position: absolute;
 }
 
