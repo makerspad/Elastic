@@ -777,18 +777,20 @@
   }
 
   @media only screen and (max-width: 767px) {
-  .Developer-and-langua1 {
-    width: 100%;
-    font-family: proxima-nova;
-    font-size: 31px;
-    font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    letter-spacing: normal;
-    color: #666666;
-    margin-bottom: -7%;
-    margin-left: 41px;
-    margin-top: 39%;
+    .Developer-and-langua1 {
+      width: 100%;
+      font-family: proxima-nova;
+      font-size: 29px;
+      font-weight: 300;
+      font-stretch: normal;
+      font-style: normal;
+      letter-spacing: normal;
+      color: #666666;
+      margin-bottom: -7%;
+      margin-left: 1px;
+      margin-top: 39%;
+      text-align: center;
+  
 }
   }
   
@@ -920,10 +922,28 @@ display: contents;
   letter-spacing: normal;
   text-align: center;
   color: #666666;
-
+  position: relative;
+  margin-left: 5%;
 }
 }
 
+
+@media only screen and (max-width: 767px) {
+
+.carousel-indicators {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 15;
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  list-style: none;
+  position: absolute;
+  top: 107%;
+}
+}
 
 
 
@@ -965,9 +985,11 @@ display: contents;
   line-height: normal;
   letter-spacing: normal;
   color: #666666;
-  margin-left: 12%;
+  margin-left: 8%;
   margin-top: -24px;
   position: absolute;
+  text-align: center;
+
 }
 
 }
