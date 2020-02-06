@@ -31,7 +31,7 @@
     font-size: 30px !important;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .text-primary {
     color: #007bff!important;
@@ -98,16 +98,16 @@
   .roll{
     position: relative;
     width: 76%;
-    margin-left: 13%;
-    width: 100%;
+    margin-left: 9.5%;
+    width: 45%;
     }
 
-    @media only screen and (max-width: 767px) {
+    @media only screen and (max-width: 600px) {
 
     .roll{
         position: relative;
         margin-left: 8%;
-    width: 96%;
+    width: 90%;
     margin-top: -34%;
         }
     }
@@ -118,7 +118,7 @@
 
 
     .C-2020-makerspad-- {
-        width: 315px;
+        width: auto;
         height: 22px;
         font-family: Proxima-nova;
         font-size: 18px;
@@ -129,16 +129,17 @@
         letter-spacing: normal;
         color: #ffffff;
         white-space: nowrap;
+        overflow: hidden;
       
       }
       .Handmade-by-makerspa {
-        width: 218px;
+        width: auto;
+        overflow: hidden;
         height: 22px;
         font-family: Proxima-nova;
         font-size: 18px;
         font-weight: 300;
         font-stretch: normal;
-        font-style: normal;
         line-height: normal;
         letter-spacing: normal;
         color: #ffffff;
@@ -147,7 +148,7 @@
       }
     
 
-      @media only screen and (max-width: 767px) {
+      @media only screen and (max-width: 600px) {
 
       .mission {
         width: 100%;
@@ -167,14 +168,14 @@
     }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .design {
     margin-left: 4%;
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .summary[_ngcontent-c1] {
     width: 100%;

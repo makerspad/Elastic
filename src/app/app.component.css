@@ -63,10 +63,10 @@ and (max-device-width : 812px)
 and (-webkit-device-pixel-ratio : 3) { 
 button {
   cursor: pointer;
-  width: 307px;
+  width: auto;
   font-size: 18px;
   padding-left: 262px;
- 
+  overflow: hidden;
   
   
 

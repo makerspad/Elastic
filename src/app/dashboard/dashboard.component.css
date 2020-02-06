@@ -251,7 +251,7 @@ padding: 8px;
   position: absolute; color: cornsilk; z-index: 1;margin-left: 15%;
 margin: 15%;font-style: tohoma;font-size: 80px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .ctr{
     position: absolute; color: cornsilk; z-index: 1;margin-left: 15%;
   margin: 15%;font-style: tohoma;font-size: 24px;
@@ -261,7 +261,7 @@ margin: 15%;font-style: tohoma;font-size: 80px;
     margin-left: 29%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .sal{
     margin-left: 0%;
 }
@@ -270,7 +270,7 @@ margin: 15%;font-style: tohoma;font-size: 80px;
 .better{
   font-size: 5.5rem;text-align: initial;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .better{
 font-size: 3.5rem;
 text-align: initial;
@@ -284,7 +284,7 @@ text-align: initial;
   margin-top: -122%;
   margin-bottom: -120%;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   #lst {
     margin-left: 4%;
     width: 35%;
@@ -332,12 +332,12 @@ text-align: initial;
   margin-top: -370px;
     margin-left: -1227px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .data{
   margin-top: 58px;
 }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .card1{
     margin-top: 24px;
 }
@@ -347,7 +347,8 @@ text-align: initial;
 
 
   .slideshow-container {
-    max-width: 1000px;
+    max-width: 100%;
+    overflow: hidden;
     position: relative;
     margin: auto;
   }
@@ -470,7 +471,7 @@ text-align: initial;
   margin-top: -24%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .dots{
   width: 14%;
   margin-left: -14%;
@@ -490,7 +491,7 @@ text-align: initial;
   margin-left: -11%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .vector{
     margin-top: 4%;
     margin-left: 5%;
@@ -500,11 +501,12 @@ text-align: initial;
   width: 100%;
     position: inherit;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .logos {
   width: 112%;
   position: relative;
   margin-top: -35%;
+  overflow: hidden;
 }
 }
 
@@ -512,7 +514,7 @@ text-align: initial;
   width: 20%;
   margin-top: 28px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 #img1{
   width: 20%;
@@ -529,7 +531,7 @@ hr.new4 {
   width: 100%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .media{
   height: 58px;
   margin-left: -21%;
@@ -537,7 +539,7 @@ hr.new4 {
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .new{
   display: none; 

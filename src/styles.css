@@ -192,26 +192,28 @@
   z-index: 1;
   position: absolute;
   margin-top: -6%;
-  margin-left: -24%
+  margin-left: -20.5%;
 }
 .Empowering-product-m {
-    width: 544px;
-    height: 44px;
-    font-size: 17px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #ffffff;
-      z-index: 1;
-    position: absolute;
-    margin-top: -3.2%;
-    margin-left: -23.2%;
-    text-align: initial;
+  width: 544px;
+  overflow: hidden;
+  height: 44px;
+  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  z-index: 1;
+  position: absolute;
+  margin-top: -3.2%;
+  margin-left: -23.2%;
+  text-align: initial;
   }
   .Developer-and-langua  {
-    width: 404px;
+    width: auto;
+    overflow: hidden;
     height: 132px;
     font-family: proxima-nova;
     font-size: 54px;
@@ -243,7 +245,7 @@
 .perfo {
   width: 86.65%;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .perfo {
   width: 86.65%;
@@ -253,7 +255,7 @@
 }
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .Developer-and-langua4 {
     width: 102% !important;
     height: 132px;
@@ -285,7 +287,7 @@
   margin-left: 60%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .Developer-and-langua2 {
     width: 100;
     height: auto;
@@ -315,8 +317,10 @@
   margin-bottom: -50%;
   margin-top: 0;
   margin-left: 39%;
+  overflow: hidden;
+
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .Quickly-and-easily-in1 {
     width: 85% !important;
     height: 40px;
@@ -333,14 +337,15 @@
     position: absolute;
 }
 }
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 600px){
 .slider1 {
     margin-top: 301px!important;
     margin-left: 76px!important;
 }
 }
 .Quickly-and-easily-in2 {
-  width: 150%;
+  width: auto;
+  overflow: hidden;
   height: 40px;
   font-family: proxima-nova;
   font-size: 16px;
@@ -355,7 +360,7 @@
   position: absolute;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .Developer-and-langua3 {
     width: 100;
     height: auto;
@@ -387,7 +392,7 @@
   margin-top: 52%;
   position: absolute;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
   .Quickly-and-easily-in2 {
     width: 100%;
@@ -421,7 +426,7 @@
   margin-top: 52%;
   position: absolute;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 }
 
 .Developer-and-langua4 {
@@ -438,7 +443,7 @@
   margin-top: 25px;
   margin-left: 127px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 }
 
 .Quickly-and-easily-in4 {
@@ -457,7 +462,7 @@
   position: absolute;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
   .Quickly-and-easily-in4 {
     width: 85%;
@@ -498,7 +503,8 @@
     color: #666666;
   }
   .Fall-in-love-with {
-    width: 347px;
+    width: auto;
+    overflow: hidden;
     height: 52px;
     font-family: proxima-nova;
     font-size: 35.8px;
@@ -507,8 +513,11 @@
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
-    color: #ffffff;
+  
+    overflow: hidden;
+   color: #ffffff;
   }
+
   .truly-love {
     width: 209px;
     height: 52px;
@@ -520,13 +529,16 @@
     line-height: normal;
     letter-spacing: normal;
     color: #ffffff;
+    overflow: hidden;
+
   }
   
   .truly-love .text-style-1 {
     letter-spacing: -0.43px;
   }
   .the-job-you {
-    width: 260px;
+    width: auto;
+    overflow: hidden;
     height: 52px;
     font-family: proxima-nova;
     font-size: 35.8px;
@@ -536,6 +548,8 @@
     line-height: normal;
     letter-spacing: normal;
     color: #ffffff;
+    overflow: hidden;
+
   }
 
   .Image-3 {
@@ -589,7 +603,7 @@
     color: #001a35;
     font-weight: 800;
   }
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .Power-to-the {
     width: 100%;
     height: auto;
@@ -605,10 +619,10 @@
     position: absolute;
     z-index: 1;
     margin-top: -32%;
-    margin-left: -68px;
+    margin-left: -91px;
   }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .product-managers {
     width: 100%;
     height: auto;
@@ -624,10 +638,10 @@
     position: absolute;
     z-index: 1;
     margin-top: -91px;
-    margin-left: -10%;
+    margin-left: -16%;
 }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .INSIGHTS-TO-IMPROVE {
   width: 100%;
   /* height: 29px; */
@@ -643,10 +657,10 @@
   z-index: 1;
   position: absolute;
   margin-top: -22%;
-  margin-left: 6%;
+  margin-left: 0%;
 }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .Empowering-product-m {
     width: 65%;
     height: auto;
@@ -661,12 +675,12 @@
     z-index: 1;
     position: absolute;
     margin-top: -13%;
-    margin-left: -5%;
+    margin-left: -11%;
     text-align: initial;
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 #first {
     font-family: 'proxima-nova', sans-serif;
     font-size: 35px;
@@ -675,7 +689,7 @@
     margin-left: -20%;
 }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
     #first{
         font-family: 'proxima-nova', sans-serif;
         font-size: 61px;
@@ -685,7 +699,7 @@
       
     margin-top: 75%;
   }}
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .Fall-in-love-with {
     height: 52px;
     font-family: proxima-nova;
@@ -701,7 +715,7 @@
 }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .the-job-you {
     height: 52px;
     font-family: proxima-nova;
@@ -718,7 +732,7 @@
 }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .truly-love {
     height: 52px;
     font-family: proxima-nova;
@@ -734,7 +748,7 @@
     margin-left: -38%;
 }
   }
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .Were-obsessed-with {
     width: 100%;
     height: 66px;
@@ -750,7 +764,7 @@
 }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .Rectangle {
     width: 100%;
         height: 310px;
@@ -758,7 +772,7 @@
     background-color: yellow;
 }
   }
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
   .Performance-Analytic {
     width: 100%;
     height: 66px;
@@ -776,7 +790,7 @@
 }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
     .Developer-and-langua1 {
       width: 100%;
       font-family: proxima-nova;
@@ -815,18 +829,20 @@
     height: 60px;
     font-family: proxima-nova;
     font-size: 16px;
-        font-weight: 300;
+    font-weight: 300;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    color: #666666;
+    color: #666;
     position: absolute;
     margin-left: -22%;
+
+
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
 
   .Behavioral-Analytics {
     width: 100%;
@@ -845,7 +861,7 @@
 }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
     #banner{
       width: 50% !important;
     position: relative !important;
@@ -887,7 +903,7 @@
 
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .How-it-all-works {
   width: 100%;
@@ -901,7 +917,7 @@
     color: #001a35;
 }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .slidersimg{
 display: contents;
@@ -909,10 +925,11 @@ display: contents;
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .Ever-wonder-How-are {
-  width: 717px;
+  width: auto;
+  overflow: hidden;
   font-family: proxima-nova;
   font-size: 15px;
   font-weight: 300;
@@ -924,11 +941,13 @@ display: contents;
   color: #666666;
   position: relative;
   margin-left: 5%;
+  overflow: hidden;
+
 }
 }
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .carousel-indicators {
   right: 0;
@@ -947,7 +966,7 @@ display: contents;
 
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .align-self-center{
   background-color: blue;
@@ -955,7 +974,7 @@ display: contents;
   height: 423px;
 }}
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .Image-3 {
   width: auto;
@@ -969,11 +988,12 @@ display: contents;
 
 
 #banner{
-  width: 531px;
+  width: auto;
+  overflow: hidden;
   height: 531px;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .Quickly-and-easily-in {
   width: 73%;
   height: auto;
@@ -993,7 +1013,7 @@ display: contents;
 }
 
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .text{
   color: black;
   font-size: 18px;
@@ -1005,7 +1025,7 @@ display: contents;
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 .slider{
 margin-top: 96px!important;
 margin-left: 76px!important;
@@ -1029,13 +1049,12 @@ margin-left: 76px!important;
   height: 60px;
   font-family: proxima-nova;
   font-size: 18px;
-      font-weight: 300;
   font-stretch: normal;
   font-style: normal;
   line-height: 1.8;
   letter-spacing: normal;
   text-align: center;
-  color: #666666;
+  color: #666;
   font-weight: 300;
   position: absolute;
   margin-left: -24%;
@@ -1043,10 +1062,11 @@ margin-left: 76px!important;
 }
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .Ever-wonder-How-are2 {
-  width: 717px;
+  width: auto;
+  overflow: hidden;
   height: 60px;
   font-family: proxima-nova;
   font-size: 15px;
@@ -1138,7 +1158,7 @@ background-color: #2649b8;
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .header a {
   float: left;
@@ -1160,7 +1180,7 @@ background-color: #2649b8;
 
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
   
 .inner-header {
   height: 13vh;
@@ -1177,13 +1197,13 @@ background-color: #2649b8;
   margin-bottom: -2%;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 600px) {
 
 
 .header {
   overflow: hidden;
   background-color: #0076CB;
-  width: 106%;
+  width: 100%;
   margin-bottom: 105px;
 
 }}
@@ -1219,7 +1239,7 @@ background-color: #2649b8;
     font-weight: 700;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .logo{
 display: none;
@@ -1242,7 +1262,7 @@ color: aqua;
   .sidenav a {font-size: 18px;}
   ;
 }
-/* @media screen and (max-width: 500px) {
+/* @media screen and (max-width: 600px) {
   .header a {
     float: none;
     display: block;
@@ -1251,7 +1271,7 @@ color: aqua;
   }
   
  } */
- /* @media screen and (max-width: 500px) {
+ /* @media screen and (max-width: 600px) {
   .header-right {
     float: none;
     display: block;
@@ -1263,7 +1283,7 @@ color: aqua;
 
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
 
 .tt-copy
@@ -1287,7 +1307,7 @@ margin-left: -4%;
    padding: 30px 0;
   font-family: Proxima-Nova;
   margin-left: -16%;
-  width: 126%;
+  width: 121%;
   margin-top: 5%;
   background-color: #232a64;
 }
@@ -1297,11 +1317,12 @@ margin-left: -4%;
   width: 175%;
   margin-top: 17%;
   margin-left: -12%;
+  overflow: hidden;
   
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
 .tunnel{
   width: 103%;
@@ -1315,7 +1336,7 @@ margin-left: -4%;
 
 
 .How-we-use-AI {
-  width: 353px;
+  /* width: 353px; */
   height: 66px;
   font-family: Proxima-Nova;
   font-size: 54px;
@@ -1350,14 +1371,15 @@ margin-left: -4%;
 .How-we-use-AI2{
   font-size: 54px;
   color: #0064ff;
-  margin-top: -18%;
-  margin-left: 96%;
+  margin-top: -9%;
+  margin-left: 42%;
+  position: relative;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
 .How-we-use-AI {
-  width: 353px;
+  /* width: 353px; */
   height: 66px;
   font-family: Proxima-Nova;
   font-size: 32px;
@@ -1371,17 +1393,18 @@ margin-left: -4%;
     position: relative;
     margin-bottom: -12%;
     margin-top: 29%;
+    overflow: hidden
 }
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
 .How-we-use-AI2 {
   font-size: 32px;
   color: #0064ff;
-  margin-top: -10%;
-  margin-left: 52%;
+  margin-top: -15%;
+    margin-left: 70%;
 }
 }
 
@@ -1391,7 +1414,7 @@ margin-left: -4%;
 
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
   .Makerspad-engineerin {
     width: 100%;
@@ -1413,7 +1436,7 @@ margin-left: -4%;
 
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
 .header {
  
   color: black;
@@ -1443,7 +1466,7 @@ margin-left: -4%;
 
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
 
 .carousel-indicators li {
   box-sizing: content-box;
@@ -1474,7 +1497,7 @@ hr.new4 {
 }
 
 .C-2020-makerspad-- {
-  width: 315px;
+  /* width: 315px; */
   height: 22px;
   font-family: Proxima-nova;
   font-size: 18px;
@@ -1486,7 +1509,8 @@ hr.new4 {
   color: #ffffff;
 }
 .Handmade-by-makerspa {
-  width: 218px;
+  width: auto;
+  overflow: hidden;
   height: 22px;
   font-family: Proxima-nova;
   font-size: 18px;
@@ -1500,7 +1524,8 @@ hr.new4 {
 
 
 .C-2020-makerspad-- {
-  width: 315px;
+  width: auto;
+  overflow: hidden;
   height: 22px;
   font-family: Proxima-nova;
   font-size: 18px;
@@ -1513,7 +1538,8 @@ hr.new4 {
   white-space: nowrap;
 }
 .Handmade-by-makerspa {
-  width: 218px;
+  width: auto;
+  overflow: hidden;
   height: 22px;
   font-family: Proxima-nova;
   font-size: 18px;
@@ -1527,7 +1553,7 @@ hr.new4 {
 
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
 
 #banner {
   width: 56%;
@@ -1540,13 +1566,13 @@ hr.new4 {
 }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .desi{
     margin-top: -145px;
   }
   }
 
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 600px) {
 
   #vector{
 
@@ -1555,7 +1581,7 @@ margin-bottom: 5%;
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .summary {
   width: 100%;
@@ -1578,7 +1604,7 @@ margin-bottom: 5%;
   width: 104%;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
 
 .beach{
   display: none;
