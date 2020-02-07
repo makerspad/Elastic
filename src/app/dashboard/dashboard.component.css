@@ -503,7 +503,7 @@ text-align: initial;
 }
 @media only screen and (max-width: 600px) {
 .logos {
-  width: 112%;
+  width: 100%;
   position: relative;
   margin-top: -35%;
   overflow: hidden;
