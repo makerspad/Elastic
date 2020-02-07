@@ -155,7 +155,7 @@
       position: absolute;
       z-index: 1;
       margin-top: 10%;
-      margin-left: -30%;
+      margin-left: -33%;
       }
 
       .product-managers {
@@ -173,7 +173,7 @@
         position: absolute;
         z-index: 1;
         margin-top: 14%;
-        margin-left: -25%;
+        margin-left: -28%;
       }
      
 
@@ -229,8 +229,8 @@
     width: 100%;
     height: 132px;
     font-family: proxima-nova;
-    font-size: 54px;
-    font-weight: 300;
+    font-size: 50px;
+    font-weight: 600;
     font-stretch: normal;
     font-style: normal;
     letter-spacing: normal;
@@ -241,6 +241,23 @@
 
 
 }
+
+/* .Developer-and-langua1 {
+  width: 100%;
+  height: 132px;
+  font-family: proxima-nova;
+  font-size: 50px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  color: #001a35;
+  margin-bottom: -50%;
+  margin-top: 0;
+  margin-left: 17%;
+} */
+
+
 
 .perfo {
   width: 86.65%;
@@ -276,15 +293,16 @@
   width: 115%;
   height: auto;
   font-family: proxima-nova;
-  font-size: 54px;
-  font-weight: 300;
+  font-size: 50px;
+  font-weight: 600;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
-  color: #666666;
+  color: #001a35;
   margin-bottom: -50%;
   margin-top: 0;
-  margin-left: 60%;
+  white-space: nowrap;
+  margin-left: 12%;
 }
 
 @media only screen and (max-width: 600px) {
@@ -305,19 +323,20 @@
 }
 
 .Developer-and-langua3 {
-  width: 172%;
-  height: 132px;
+  width: 115%;
+  height: auto;
   font-family: proxima-nova;
-  font-size: 54px;
-  font-weight: 300;
+  font-size: 50px;
+  font-weight: 600;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
-  color: #666666;
+  color: #001a35;
   margin-bottom: -50%;
   margin-top: 0;
-  margin-left: 39%;
-  overflow: hidden;
+  white-space: nowrap;
+
+  margin-left: 60%;
 
 }
 @media only screen and (max-width: 600px) {
@@ -422,26 +441,27 @@
   line-height: normal;
   letter-spacing: normal;
   color: #666666;
-  margin-left: 22%;
+  margin-left: 12%;
   margin-top: 52%;
   position: absolute;
-}
-@media only screen and (max-width: 600px) {
+  
+
 }
 
+
 .Developer-and-langua4 {
-  width: 141%;
-  height: 132px;
+  width: 115%;
+  height: auto;
   font-family: proxima-nova;
-  font-size: 54px;
-  font-weight: 300;
+  font-size: 50px;
+  font-weight: 600;
   font-stretch: normal;
   font-style: normal;
   letter-spacing: normal;
-  color: #666666;
-  margin-bottom: -74%;
-  margin-top: 25px;
-  margin-left: 127px;
+  color: #001a35;
+  margin-bottom: -50%;
+  margin-top: 0;
+  margin-left: 60%;
 }
 @media only screen and (max-width: 600px) {
 }
@@ -619,7 +639,7 @@
     position: absolute;
     z-index: 1;
     margin-top: -32%;
-    margin-left: -91px;
+    margin-left: -94px;;
   }
 }
 @media only screen and (max-width: 600px) {
@@ -638,8 +658,8 @@
     position: absolute;
     z-index: 1;
     margin-top: -91px;
-    margin-left: -16%;
-}
+    margin-left: -17%;
+  }
 }
 @media only screen and (max-width: 600px) {
 .INSIGHTS-TO-IMPROVE {
@@ -657,6 +677,7 @@
   z-index: 1;
   position: absolute;
   margin-top: -22%;
+ display: none;
   margin-left: 0%;
 }
 }
@@ -674,8 +695,8 @@
     color: #ffffff;
     z-index: 1;
     position: absolute;
-    margin-top: -13%;
-    margin-left: -11%;
+    margin-top: -17%;
+    margin-left: -6%;
     text-align: initial;
 }
 }
@@ -813,15 +834,16 @@
     width: 100%;
     height: 66px;
     font-family: proxima-nova;
-    font-size: 54px;
+    font-size: 50px;
     font-stretch: normal;
     font-style: normal;
     line-height: normal;
     letter-spacing: normal;
     text-align: center;
-    font-weight: 300;
+    font-weight: 600;
     color: #001a35;
     margin-top: 5%;
+
   }
 
   .Ever-wonder-How-are {
@@ -1382,9 +1404,11 @@ margin-left: -4%;
   /* width: 353px; */
   height: 66px;
   font-family: Proxima-Nova;
-  font-size: 32px;
+  font-size: 24px;
   font-weight: 300;
   font-stretch: normal;
+
+
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
@@ -1401,10 +1425,10 @@ margin-left: -4%;
 @media screen and (max-width: 600px) {
 
 .How-we-use-AI2 {
-  font-size: 32px;
-  color: #0064ff;
-  margin-top: -15%;
-    margin-left: 70%;
+    font-size: 24px;
+    color: #0064ff;
+    margin-top: -10%;
+    margin-left: 55%;
 }
 }
 
@@ -1609,4 +1633,42 @@ margin-bottom: 5%;
 .beach{
   display: none;
 }
+}
+
+
+.carousel-control-next, .carousel-control-prev {
+  margin-block-start: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15%;
+  color: #fff;
+  text-align: center;
+  opacity: .5;
+  transition: opacity .15s ease;
+  margin-left: -6% !important;
+  position: absolute;
+  margin-right: -6% !important;
+}
+
+
+
+.Quickly-and-easily-in10 {
+  width: 142%;
+  height: 40px;
+  font-family: proxima-nova;
+  font-size: 16px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #666666;
+  margin-left: 23%;
+  margin-top: 52%;
+  position: absolute;
 }
