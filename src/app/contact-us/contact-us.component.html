@@ -27,10 +27,10 @@
                   <div class="container">
                           <form class="form" action="/action_page.php">
                                   <label for="fname">First Name</label>
-                                  <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                                  <input type="text" id="fname" name="firstname" [(ngModel)]='contactForm.userName' placeholder="Your name..">
 
                                   <label for="lname">Last Name</label>
-                                  <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+                                  <input type="text" id="lname" name="lastname" [(ngModel)]='contactForm.lastName' placeholder="Your last name..">
 
                                   <!-- <label for="country">Country</label>
                                   <select id="country" name="country">
@@ -39,19 +39,21 @@
                                   </select> -->
 
                                   <label for="lname">Email</label>
-                                  <input type="text" id="lname" name="lastname" placeholder="Your email..">
+                                  <input type="text" id="lname" name="lastname" [(ngModel)]='contactForm.userEmail'  placeholder="Your email..">
                                   
                         
                                   <label for="lname">Phone Number</label>
-                                  <input type="text" id="phone" name="phone"  placeholder="Your mobile.."
+                                  <input type="text" id="phone" name="phone" [(ngModel)]='contactForm.userph'  placeholder="Your mobile.."
                                   pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
                                   required>
 
                                   <label for="subject">Subject</label>
-                                  <textarea id="subject" name="subject" placeholder="Write something.."
+                                  <textarea id="subject" name="subject"  [(ngModel)]='contactForm.mailContent' placeholder="Write something.."
                                           style="height:200px"></textarea>
 
-                                  <input type="submit" value="Submit">
+                                  <input type="submit" value="Submit" (click)='sendEmail()'>
+                                  <span class="responses" *ngIf="SendMailResponse">{{SendMailResponse}}</span>
+
                           </form>
                   </div>
 

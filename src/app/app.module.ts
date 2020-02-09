@@ -15,6 +15,7 @@ import { ApplyComponent } from './apply/apply.component';
 import { SrUserExperienceDesignerComponent } from './sr-user-experience-designer/sr-user-experience-designer.component';
 import { FullStackDeveloperComponent } from './full-stack-developer/full-stack-developer.component';
 import { SrFullStackDeveloperComponent } from './sr-full-stack-developer/sr-full-stack-developer.component';
+import { ContactPageService} from "./services/contact-page.service"
 
 
 
@@ -43,7 +44,7 @@ import { SrFullStackDeveloperComponent } from './sr-full-stack-developer/sr-full
   { path : 'contact-us', component :ContactUSComponent },
     ])
   ],
-  providers: [ {provide: LocationStrategy, useClass: HashLocationStrategy}   ],
+  providers: [ {provide: LocationStrategy, useClass: HashLocationStrategy},ContactPageService   ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
